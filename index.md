@@ -7,7 +7,7 @@ Datum | Uhrzeit | Titel | Cocktail
 10.09.2021 | 22:00 | [Time Breaker](#time-breaker)
 17.09.2021 | 22:00 | [Angriff der Riesenkralle](#angriff-der-riesenkralle)
 24.09.2021 | 22:00 | [Das Söldnerkommando](#das-s%C3%B6ldnerkommando)
-01.10.2021 | 22:00 | [Humanoide – Kapf um die 5. Galaxis](#humanoide--kapf-um-die-5-galaxis)
+01.10.2021 | 22:00 | [Humanoide – Kampf um die 5. Galaxis](#humanoide--kampf-um-die-5-galaxis)
 08.10.2021 | 22:00 | [Rise of the Animals](#rise-of-the-animals)
 15.10.2021 | 22:00 | [Liebesgrüße aus Fernost](#liebesgr%C3%BC%C3%9Fe-aus-fernost)
 
@@ -83,7 +83,7 @@ Links:
 Movie Page: _missing_  
 Cocktail Page: _missing_  
 
-## Humanoide – Kapf um die 5. Galaxis
+## Humanoide – Kampf um die 5. Galaxis
 <img align="right" src="/images/humanoide.jpg" />
 
 **Grenzdebiler Italo-Star-Wars-Kopisten-Kracher!**  
