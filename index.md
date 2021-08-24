@@ -14,7 +14,7 @@ Datum | Uhrzeit | Titel | Cocktail
 Quelle: https://www.schlefaz.de/blog/die-sommerstaffel-2021/
 
 ## Disco Godfather
-<img align="right" src="/images/disco-godfather.jpg"></img>
+<img align="right" src="/images/disco-godfather.jpg" />
 
 **Late Blaxploitation-Horror-Drogen-Disco-Ghettodrama!**  
 _Freitag, 27. August_
