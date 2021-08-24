@@ -3,13 +3,13 @@
 Datum | Uhrzeit | Titel | Cocktail
 ----- | ------- | ----- | --------
 27.08.2021 | 22:00 | [Disco Godfather](#Disco-Godfather) | One-Twenty-Five-Staying-Alive-Godfather-Tucker-Godmotherfucker
-03.09.2021 | 22:00 | Sloane – Die Gewalt im Nacken
-10.09.2021 | 22:00 | Time Breaker
-17.09.2021 | 22:00 | Angriff der Riesenkralle
-24.09.2021 | 22:00 | Das Söldnerkommando
-01.10.2021 | 22:00 | Humanoide – Kapf um die 5. Galaxis
-08.10.2021 | 22:00 | Rise of the Animals
-15.10.2021 | 22:00 | Liebesgrüße aus Fernost
+03.09.2021 | 22:00 | [Sloane – Die Gewalt im Nacken](#sloane--die-gewalt-im-nacken)
+10.09.2021 | 22:00 | [Time Breaker](#time-breaker)
+17.09.2021 | 22:00 | [Angriff der Riesenkralle](#angriff-der-riesenkralle)
+24.09.2021 | 22:00 | [Das Söldnerkommando](#das-s%C3%B6ldnerkommando)
+01.10.2021 | 22:00 | [Humanoide – Kapf um die 5. Galaxis](#humanoide--kapf-um-die-5-galaxis)
+08.10.2021 | 22:00 | [Rise of the Animals](#rise-of-the-animals)
+15.10.2021 | 22:00 | [Liebesgrüße aus Fernost](#liebesgr%C3%BC%C3%9Fe-aus-fernost)
 
 Quelle: https://www.schlefaz.de/blog/die-sommerstaffel-2021/
 
