@@ -14,7 +14,7 @@ Datum | Uhrzeit | Titel | Cocktail
 Quelle: https://www.schlefaz.de/blog/die-sommerstaffel-2021/
 
 ## Disco Godfather
-<img align="right" src="/images/disco-godfather.jpg" />
+<img align="right" src="images/disco-godfather.jpg" />
 
 **Late Blaxploitation-Horror-Drogen-Disco-Ghettodrama!**  
 _Freitag, 27. August_
@@ -28,7 +28,7 @@ Links:
 [Cocktail Page](https://www.schlefaz.de/mediathek/disco-godfather/#cocktail)
 
 ## Sloane – Die Gewalt im Nacken
-<img align="right" src="/images/sloane.jpg" />
+<img align="right" src="images/sloane.jpg" />
 
 **Cool Guy macht Nutten und Gangster platt!**  
 _Freitag, 3. September_
@@ -42,7 +42,7 @@ Movie Page: _missing_
 Cocktail Page: _missing_
 
 ## Time Breaker
-<img align="right" src="/images/time-breaker.jpg" />
+<img align="right" src="images/time-breaker.jpg" />
 
 **Ranziges Geflecht aus alten Western- und Fantasyfilm-Kötteln!**  
 _Freitag, 10. September_
@@ -56,7 +56,7 @@ Movie Page: _missing_
 Cocktail Page: _missing_
 
 ## Angriff der Riesenkralle
-<img align="right" src="/images/angriff-der-riesenkralle.jpg" />
+<img align="right" src="images/angriff-der-riesenkralle.jpg" />
 
 **Ein halbes Hähnchen gibt die Killer-Krähe!**  
 _Freitag, 17.September_
@@ -70,7 +70,7 @@ Movie Page: _missing_
 Cocktail Page: _missing_
 
 ## Das Söldnerkommando
-<img align="right" src="/images/das-soeldnerkommando.jpg" />
+<img align="right" src="images/das-soeldnerkommando.jpg" />
 
 **Kapitale Kampfkunst-Prügel-Action!**  
 _Freitag, 24. September_
@@ -84,7 +84,7 @@ Movie Page: _missing_
 Cocktail Page: _missing_  
 
 ## Humanoide – Kampf um die 5. Galaxis
-<img align="right" src="/images/humanoide.jpg" />
+<img align="right" src="images/humanoide.jpg" />
 
 **Grenzdebiler Italo-Star-Wars-Kopisten-Kracher!**  
 _Freitag, 1. Oktober_
@@ -98,7 +98,7 @@ Movie Page: _missing_
 Cocktail Page: _missing_
 
 ## Rise of the Animals
-<img align="right" src="/images/rise-of-animals.jpg" />
+<img align="right" src="images/rise-of-animals.jpg" />
 
 **Apocalypse Wau – Die digitale Dünpfiff-Dusche!**  
 _Freitag, 8. Oktober_
