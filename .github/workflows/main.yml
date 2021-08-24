@@ -1,0 +1,25 @@
+
+name: deploy-html
+on: 
+  workflow_dispatch:
+  push:
+jobs:
+  generate-html:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Run pandoc
+        uses: docker://pandoc/latex:2.9
+        with:
+          args: "pandoc --standalone --metadata pagetitle=\"nohello\" --css \"assets/css/pandoc.css\" --output=index.html index.md"
+      - name: Commit
+        run: |
+          git config --global user.name "Github Actions Bot"
+          git config --global user.email "actions@github.com"
+          git commit -am "[BOT] Deploy to HTML"
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
