@@ -2,7 +2,7 @@
 
 Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
 ----------- | --- | ----- | ---- | ---- | --------
-27.08.2021 22:00 | 125 | [Disco Godfather](#Disco-Godfather) | 1979 | [:star:5.4](https://www.imdb.com/title/tt0074412/) | [One-Twenty-Five-Staying-Alive-Godfather-Tucker-Godmotherfucker](https://www.schlefaz.de/mediathek/disco-godfather/#cocktail)
+27.08.2021 22:00 | 125 | [Disco Godfather](#Disco-Godfather) | 1979 | [⭐5.4](https://www.imdb.com/title/tt0074412/) | [One-Twenty-Five-Staying-Alive-Godfather-Tucker-Godmotherfucker](https://www.schlefaz.de/mediathek/disco-godfather/#cocktail)
 03.09.2021 22:00 | 126 | [Sloane – Die Gewalt im Nacken](#sloane--die-gewalt-im-nacken) | 1985 | [:star:3.8](https://www.imdb.com/title/tt0074412/)
 10.09.2021 22:00 | 127 | [Time Breaker](#time-breaker) | 1975 | [:star:5.1](https://www.imdb.com/title/tt0074570)
 17.09.2021 22:00 | 128 | [Angriff der Riesenkralle](#angriff-der-riesenkralle) | 1957 | [:star:4.6](https://www.imdb.com/title/tt0050432)
