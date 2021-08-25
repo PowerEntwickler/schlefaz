@@ -1,7 +1,8 @@
 _[English version below.](#the-worst-movies-of-all-time--schlefaz)_
 # Die schlechtesten Filme aller Zeiten :: SchleFaZ
 
-> Die schlechtesten Filme aller Zeiten (auch abgekürzt SchleFaZ [ˈʃleːfat͡s]) ist eine satirische Filmreihe des Privatsenders [Tele 5](https://de.wikipedia.org/wiki/Tele_5). Darin werden hauptsächlich [B-Filme](https://de.wikipedia.org/wiki/B-Movie), die sich durch besonders schlechte Machart oder unfreiwillig komische Einfälle auszeichnen, von [Oliver Kalkofe](https://de.wikipedia.org/wiki/Oliver_Kalkofe) und [Peter Rütten](https://de.wikipedia.org/wiki/Peter_R%C3%BCtten) vorgestellt, mit Kommentaren versehen und präsentiert. >Diese Filme selbst werden Schlefaze genannt.
+> Die schlechtesten Filme aller Zeiten (auch abgekürzt SchleFaZ [ˈʃleːfat͡s]) ist eine satirische Filmreihe des Privatsenders [Tele 5](https://de.wikipedia.org/wiki/Tele_5). Darin werden hauptsächlich [B-Filme](https://de.wikipedia.org/wiki/B-Movie), die sich durch besonders schlechte Machart oder unfreiwillig komische Einfälle auszeichnen, von [Oliver Kalkofe](https://de.wikipedia.org/wiki/Oliver_Kalkofe) und [Peter Rütten](https://de.wikipedia.org/wiki/Peter_R%C3%BCtten) vorgestellt, mit Kommentaren versehen und präsentiert.  
+> Diese Filme selbst werden Schlefaze genannt.
 
 Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Die_schlechtesten_Filme_aller_Zeiten)
 
