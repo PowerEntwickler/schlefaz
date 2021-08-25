@@ -3,13 +3,13 @@
 Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
 ----------- | --- | ----- | ---- | ---- | --------
 27.08.2021 22:00 | 125 | [Disco Godfather](#Disco-Godfather) | 1979 | [⭐5.4](https://www.imdb.com/title/tt0074412/) | [One-Twenty-Five-Staying-Alive-Godfather-Tucker-Godmotherfucker](https://www.schlefaz.de/mediathek/disco-godfather/#cocktail)
-03.09.2021 22:00 | 126 | [Sloane – Die Gewalt im Nacken](#sloane--die-gewalt-im-nacken) | 1985 | [:star:3.8](https://www.imdb.com/title/tt0074412/)
-10.09.2021 22:00 | 127 | [Time Breaker](#time-breaker) | 1975 | [:star:5.1](https://www.imdb.com/title/tt0074570)
-17.09.2021 22:00 | 128 | [Angriff der Riesenkralle](#angriff-der-riesenkralle) | 1957 | [:star:4.6](https://www.imdb.com/title/tt0050432)
-24.09.2021 22:00 | 129 | [Das Söldnerkommando](#das-s%C3%B6ldnerkommando) | 1982 | [:star:5.2](https://www.imdb.com/title/tt0082611)
-01.10.2021 22:00 | 130 | [Humanoide – Kampf um die 5. Galaxis](#humanoide--kampf-um-die-5-galaxis) | 1979 | [:star:4.0](https://www.imdb.com/title/tt0080058)
-08.10.2021 22:00 | 131 | [Rise of the Animals](#rise-of-the-animals) | 2011 | [:star:3.5](https://www.imdb.com/title/tt1954780)
-15.10.2021 22:00 | 132 | [Liebesgrüße aus Fernost](#liebesgr%C3%BC%C3%9Fe-aus-fernost) | 1973 | [:star:4.7](https://www.imdb.com/title/tt0070926)
+03.09.2021 22:00 | 126 | [Sloane – Die Gewalt im Nacken](#sloane--die-gewalt-im-nacken) | 1985 | [⭐3.8](https://www.imdb.com/title/tt0074412/)
+10.09.2021 22:00 | 127 | [Time Breaker](#time-breaker) | 1975 | [⭐5.1](https://www.imdb.com/title/tt0074570)
+17.09.2021 22:00 | 128 | [Angriff der Riesenkralle](#angriff-der-riesenkralle) | 1957 | [⭐4.6](https://www.imdb.com/title/tt0050432)
+24.09.2021 22:00 | 129 | [Das Söldnerkommando](#das-s%C3%B6ldnerkommando) | 1982 | [⭐5.2](https://www.imdb.com/title/tt0082611)
+01.10.2021 22:00 | 130 | [Humanoide – Kampf um die 5. Galaxis](#humanoide--kampf-um-die-5-galaxis) | 1979 | [⭐4.0](https://www.imdb.com/title/tt0080058)
+08.10.2021 22:00 | 131 | [Rise of the Animals](#rise-of-the-animals) | 2011 | [⭐3.5](https://www.imdb.com/title/tt1954780)
+15.10.2021 22:00 | 132 | [Liebesgrüße aus Fernost](#liebesgr%C3%BC%C3%9Fe-aus-fernost) | 1973 | [⭐4.7](https://www.imdb.com/title/tt0070926)
 
 Quelle: https://www.schlefaz.de/blog/die-sommerstaffel-2021/
 
