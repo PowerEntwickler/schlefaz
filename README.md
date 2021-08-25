@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+_[English version below.](#)_
+# Die schlechtesten Filme aller Zeiten :: SchleFaZ
 
-You can use the [editor on GitHub](https://github.com/PowerEntwickler/schlefaz/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+> Die schlechtesten Filme aller Zeiten (auch abgekürzt SchleFaZ [ˈʃleːfat͡s]) ist eine satirische Filmreihe des Privatsenders [Tele 5](https://de.wikipedia.org/wiki/Tele_5). Darin werden hauptsächlich [B-Filme](https://de.wikipedia.org/wiki/B-Movie), die sich durch besonders schlechte Machart oder unfreiwillig komische Einfälle auszeichnen, von [Oliver Kalkofe](https://de.wikipedia.org/wiki/Oliver_Kalkofe) und [Peter Rütten](https://de.wikipedia.org/wiki/Peter_R%C3%BCtten) vorgestellt, mit Kommentaren versehen und präsentiert. >Diese Filme selbst werden Schlefaze genannt.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Die_schlechtesten_Filme_aller_Zeiten)
 
-### Markdown
+## Inhalt dieses Repos
+Enthält den Quellcode für die GitHub Page:  
+[https://powerentwickler.github.io/schlefaz/](https://powerentwickler.github.io/schlefaz/)  
+Welche eine Übersicht der aktuellen Sendetermine und Beschreibungen zu den Filmen bietet.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Warum diese Page
+Die [SchleFaZ Homepage](https://www.schlefaz.de) ist, so hübsch sie auch sei, sehr unübersichtlich. Daher habe ich eine schlichte Überischt der aktuellen Staffel geschaffen und da ich mich gerade mit GitHub beschäftige, habe ich das hier gemacht. 😄
 
-```markdown
-Syntax highlighted code block
+## Links zu SchleFaZ
+[SchleFaZ Homepage](https://www.schlefaz.de/)  
+[SchleFaZ Cocktails](https://www.schlefaz.de/cocktails/)  
+[SchleFliX](https://www.tele5.de/schlefaz/mediathek/)  
+[Tele 5](https://www.tele5.de/)  
+[imdb](https://www.imdb.com/title/tt3062428/) ⭐8.2
 
-# Header 1
-## Header 2
-### Header 3
+# The worst movies of all time :: SchleFaZ
+>Die schlechtesten Filme aller Zeiten (also abbreviated SchleFaZ [ˈʃleːfat͡s]) is a satirical film series by the private broadcaster [Tele 5](https://de.wikipedia.org/wiki/Tele_5). In it, mainly [B-films](https://de.wikipedia.org/wiki/B-Movie), which are characterized by particularly bad style or unintentionally funny ideas, are introduced by [Oliver Kalkofe](https://de.wikipedia.org/wiki/Oliver_Kalkofe) and [Peter Rütten](https://de.wikipedia.org/wiki/Peter_R%C3%BCtten), provided with comments and presented. 
+>These films themselves are called Schlefaze.
 
-- Bulleted
-- List
+Source: [Wikipedia](https://de.wikipedia.org/wiki/Die_schlechtesten_Filme_aller_Zeiten)
 
-1. Numbered
-2. List
+## Contents of this repo
+Contains the source code for the GitHub page:  
+[https://powerentwickler.github.io/schlefaz/](https://powerentwickler.github.io/schlefaz/)  
+Which provides an overview of the current broadcast dates and descriptions of the movies.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PowerEntwickler/schlefaz/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Why this page
+The [SchleFaZ Homepage](https://www.schlefaz.de) is, as nice as it is, very confusing. So I created a plain overview of the current season, and since I'm into GitHub right now, I made this. 😄
