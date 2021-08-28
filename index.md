@@ -25,7 +25,9 @@ Der SchleFaZ-Jubiläums-Film zur 125. Sendung: Olli und Päter haben den 70er-Ja
 
 Links:  
 [Movie Page](https://www.schlefaz.de/blog/der-125-schlefaz-disco-godfather/)  
-[Cocktail Page](https://www.schlefaz.de/mediathek/disco-godfather/#cocktail)
+[Cocktail Page](https://www.schlefaz.de/mediathek/disco-godfather/#cocktail)  
+[Youtube: SchleFaZ 125 “Director’s Cut”](https://www.youtube.com/watch?v=bHZoYFVqUds)  
+[Mediathek](https://www.schlefaz.de/mediathek/disco-godfather/)
 
 ## Sloane – Die Gewalt im Nacken
 <img align="right" src="images/sloane.jpg" />
