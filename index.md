@@ -3,7 +3,7 @@
 Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
 ----------- | --- | ----- | ---- | ---- | --------
 27.08.2021 22:00 | 125 | [Disco Godfather](#Disco-Godfather) | 1979 | [⭐5.4](https://www.imdb.com/title/tt0074412/) | [One-Twenty-Five-Staying-Alive-Godfather-Tucker-Godmotherfucker](https://www.schlefaz.de/mediathek/disco-godfather/#cocktail)
-03.09.2021 22:00 | 126 | [Sloane – Die Gewalt im Nacken](#sloane--die-gewalt-im-nacken) | 1985 | [⭐3.8](https://www.imdb.com/title/tt0074412/)
+03.09.2021 22:00 | 126 | [Sloane – Die Gewalt im Nacken](#sloane--die-gewalt-im-nacken) | 1985 | [⭐3.8](https://www.imdb.com/title/tt0074412/) | [Sloane Rider-Testosterone Provider](https://www.schlefaz.de/mediathek/schlefaz-sloane-die-gewalt-im-nacken/#cocktail)
 10.09.2021 22:00 | 127 | [Time Breaker](#time-breaker) | 1975 | [⭐5.1](https://www.imdb.com/title/tt0074570)
 17.09.2021 22:00 | 128 | [Angriff der Riesenkralle](#angriff-der-riesenkralle) | 1957 | [⭐4.6](https://www.imdb.com/title/tt0050432)
 24.09.2021 22:00 | 129 | [Das Söldnerkommando](#das-s%C3%B6ldnerkommando) | 1982 | [⭐5.2](https://www.imdb.com/title/tt0082611)
@@ -32,16 +32,22 @@ Links:
 ## Sloane – Die Gewalt im Nacken
 <img align="right" src="images/sloane.jpg" />
 
-**Cool Guy macht Nutten und Gangster platt!**  
-_Freitag, 3. September_
+_(Sloane) USA 1985, Action_ 
+_Freitag, 3. September_  
+Regie: _Dan Rosenthal und Richard Belding_ Drehbuch: _Auberey K.Rattan_ Darsteller: _Robert Resnick, Debra Blee, Raul Aragon,Victor M. Ordoñez Fides u.v.a._
+
+**Cool Guy macht Nutten und Gangster platt!** 
+
+Von Peter Rütten:  
+> Philllip Sloane war der beste Mann einer Spezialeinheit in Vietnam, ein eiskalter Einzelkämpfer und hervorragender Hubschrauber-Pilot. Jetzt läßt er sich als hochbezahlter Söldner für heiße Jobs anheuern. Der Millionär Tracy beauftragt ihn, seine Tochter Janice wiederzufinden, die in Manila verschwunden ist. Sloane findet bald heraus, daß hinter der Entführung Chan Se, der Boss einer asiatischen Gangster-Organisation steckt. Eine Höllenjagd von dem Großstadsumpf Manilas bis in die Tiefen des philippinischen Dschungels beginnt…
 
 Jede Minute dieses Films ist mit schrill waberndem Wahnsinn durchtränkt! Ein Film wie ein Fieberrausch – als hätte man sich einen Liter Absynth heiß gemacht, ein Kilo Zucker drin aufgelöst und das Ganze dann ge-ext!
 
 Im Mutterland von Rambo, Braddock, American Ninja und Co. erschien dieser Film nur auf VHS. In Deutschland aber (und selbst in der Türkei!) lief er in Kino! Jetzt endlich auch bei SchleFaZ!
 
 Links:  
-Movie Page: _missing_  
-Cocktail Page: _missing_
+[Mediathek](https://www.schlefaz.de/mediathek/schlefaz-sloane-die-gewalt-im-nacken/)  
+[Cocktail Page](https://www.schlefaz.de/mediathek/schlefaz-sloane-die-gewalt-im-nacken/#cocktail)
 
 ## Time Breaker
 <img align="right" src="images/time-breaker.jpg" />
