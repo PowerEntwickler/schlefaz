@@ -6,7 +6,7 @@
     - [Letzte Folge](#letzte-folge)
   - [Folgen](#folgen)
     - [Im Reich der Amazonen](#im-reich-der-amazonen)
-      - [Cocktail](#cocktail)
+      - [AMAZONS PRIME – IT’S BUTT AND BOOBFEST-TIME](#amazons-prime--its-butt-and-boobfest-time)
  
 ## Sendetermine
 
@@ -48,7 +48,12 @@ Ein Epos aus dem finsteren Mittelalter über den legendären verlorenen Stamm de
 Ein ebenso krudes wie simples Fantasy-Abenteuer, 
 das sich nur für einige Grausamkeiten und die unverhohlen sexistisch ausgestellten körperlichen Reize der Darstellerinnen interessiert (Lexikon des internationalen Films)
 
-#### Cocktail
+#### AMAZONS PRIME – IT’S BUTT AND BOOBFEST-TIME
+
+- **GESCHMACK Kategorie:** fruchtig - aromatisch 
+- **Dekoration:** Schlange (Fruchtgummi)  
+- **Glas:** Longdrinkglas 0,3 l  
+
 **Zutaten**: 
 - 5cl Cachaca
 - 3cl Lakritzlikör
@@ -59,9 +64,6 @@ das sich nur für einige Grausamkeiten und die unverhohlen sexistisch ausgestell
 1. Shaker mit Eiswürfeln und den Zutaten befüllen
 2. Kräftig shaken, auf Eiswürfeln ins Longdrinkglas abseihen
 
-**GESCHMACK Kategorie:** fruchtig - aromatisch 
-**Dekoration:** Schlange (Fruchtgummi)  
-**Glas:** Longdrinkglas 0,3 l  
 **Trinkspruch:**
 >Heute gibt’s kein „Leber schonen“...
 willst Du mit uns ins Land der Amazonen!
