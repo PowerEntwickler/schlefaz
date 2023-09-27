@@ -1,34 +1,19 @@
-# SchleFaZ Abschlussjahr 2023
-1. [Sendetermine](#sendetermine)
-   1. [Abschlussstaffel](#SchleFaZ-Abschlussstaffel-2023)
-   1. [Adventsstaffel](#SchleFaZ-Adventsstaffel-2023)
-   1. ["Good-Bye #SchleFaZ"](#Letzte-Folge)
-2. [Folgen](#Folgen)
- 
-## Sendetermine
-### SchleFaZ Abschlussstaffel 2023
-Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
------------ | --- | ----- | ---- | ---- | --------
-29.09.2023 22:00 | 1?? | [Im Reich der Amazonen](#Im-Reich-der-Amazonen) | 1986 | [⭐4.3](https://www.imdb.com/title/tt0090627/) | AMAZONS PRIME – IT’S BUTT AND BOOBFEST-TIME
-06.10.2023 22:00 | 1?? | [DOLLMAN VS DEMONIC TOYS](#DOLLMAN-VS-DEMONIC-TOYS) | 1993 | [⭐4.3](https://www.imdb.com/title/tt0106743/) | tba
-13.10.2023 22:00 | 1?? | [DEATHSPORT](#DEATHSPORT) | 1978 | [⭐4.1](https://www.imdb.com/title/tt0077414/) | tba
-20.10.2023 22:00 | 1?? | [BEAST YOU!](#BEAST-YOU) | 1988 | [⭐4.9](https://www.imdb.com/title/tt0096142) | tba
-27.10.2023 22:00 | 1?? | [YETI](#YETI) | 1977 | [⭐4.3](https://www.imdb.com/title/tt0076937) | tba
+# SchleFaZ Sommerstaffel 2021
 
-### SchleFaZ Adventsstaffel 2023
 Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
 ----------- | --- | ----- | ---- | ---- | --------
-01.12.2023 22:00 | 1?? | tba | tba | ⭐tba | tba
-08.12.2023 22:00 | 1?? | tba | tba | ⭐tba | tba
-15.12.2023 22:00 | 1?? | tba | tba | ⭐tba | tba
-22.12.2023 22:00 | 1?? | tba | tba | ⭐tba | tba
-### Letzte Folge
-Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
------------ | --- | ----- | ---- | ---- | --------
-31.12.2023 ??:00 | 1?? | "Good-Bye #SchleFaZ" | tba | ⭐tba | tba
+27.08.2021 22:00 | 125 | [Disco Godfather](#Disco-Godfather) | 1979 | [⭐5.4](https://www.imdb.com/title/tt0074412/) | [One-Twenty-Five-Staying-Alive-Godfather-Tucker-Godmotherfucker](https://www.schlefaz.de/mediathek/disco-godfather/#cocktail)
+03.09.2021 22:00 | 126 | [Sloane – Die Gewalt im Nacken](#sloane--die-gewalt-im-nacken) | 1985 | [⭐3.8](https://www.imdb.com/title/tt0074412/) | [Sloane Rider-Testosterone Provider](https://www.schlefaz.de/blog/sloane-das-rezeptkaertchen/)
+10.09.2021 22:00 | 127 | [Time Breaker](#time-breaker) | 1975 | [⭐5.1](https://www.imdb.com/title/tt0074570) | [Get Even Meaner Crystal Meth-Diener](https://www.schlefaz.de/mediathek/time-breaker/#cocktail)
+17.09.2021 22:00 | 128 | [Angriff der Riesenkralle](#angriff-der-riesenkralle) | 1957 | [⭐4.6](https://www.imdb.com/title/tt0050432)
+24.09.2021 22:00 | 129 | [Das Söldnerkommando](#das-s%C3%B6ldnerkommando) | 1982 | [⭐5.2](https://www.imdb.com/title/tt0082611)
+01.10.2021 22:00 | 130 | [Humanoide – Kampf um die 5. Galaxis](#humanoide--kampf-um-die-5-galaxis) | 1979 | [⭐4.0](https://www.imdb.com/title/tt0080058)
+08.10.2021 22:00 | 131 | [Rise of the Animals](#rise-of-the-animals) | 2011 | [⭐3.5](https://www.imdb.com/title/tt1954780)
+15.10.2021 22:00 | 132 | [Liebesgrüße aus Fernost](#liebesgr%C3%BC%C3%9Fe-aus-fernost) | 1973 | [⭐4.7](https://www.imdb.com/title/tt0070926)
 
-## Folgen
-### Disco Godfather
+Quelle: https://www.schlefaz.de/blog/die-sommerstaffel-2021/
+
+## Disco Godfather
 <img align="right" src="images/disco-godfather.jpg" />
 
 **Late Blaxploitation-Horror-Drogen-Disco-Ghettodrama!**  
