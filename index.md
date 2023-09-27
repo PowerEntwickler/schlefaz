@@ -14,11 +14,11 @@
 
 Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
 ----------- | --- | ----- | ---- | ---- | --------
-29.09.2023 22:00 | 1?? | [Im Reich der Amazonen](#Im-Reich-der-Amazonen) | 1986 | [⭐4.3](https://www.imdb.com/title/tt0090627/) | AMAZONS PRIME – IT’S BUTT AND BOOBFEST-TIME
-06.10.2023 22:00 | 1?? | [DOLLMAN VS DEMONIC TOYS](#DOLLMAN-VS-DEMONIC-TOYS) | 1993 | [⭐4.3](https://www.imdb.com/title/tt0106743/) | tba
-13.10.2023 22:00 | 1?? | [DEATHSPORT](#DEATHSPORT) | 1978 | [⭐4.1](https://www.imdb.com/title/tt0077414/) | tba
-20.10.2023 22:00 | 1?? | [BEAST YOU!](#BEAST-YOU) | 1988 | [⭐4.9](https://www.imdb.com/title/tt0096142) | tba
-27.10.2023 22:00 | 1?? | [YETI](#YETI) | 1977 | [⭐4.3](https://www.imdb.com/title/tt0076937) | tba
+29.09.2023 22:00 | 1?? | [Im Reich der Amazonen](#im-reich-der-amazonen) | 1986 | [⭐4.3](https://www.imdb.com/title/tt0090627/) | AMAZONS PRIME – IT’S BUTT AND BOOBFEST-TIME
+06.10.2023 22:00 | 1?? | DOLLMAN VS DEMONIC TOYS | 1993 | [⭐4.3](https://www.imdb.com/title/tt0106743/) | tba
+13.10.2023 22:00 | 1?? | DEATHSPORT | 1978 | [⭐4.1](https://www.imdb.com/title/tt0077414/) | tba
+20.10.2023 22:00 | 1?? | BEAST YOU! | 1988 | [⭐4.9](https://www.imdb.com/title/tt0096142) | tba
+27.10.2023 22:00 | 1?? | YETI | 1977 | [⭐4.3](https://www.imdb.com/title/tt0076937) | tba
 
 ### SchleFaZ Adventsstaffel 2023
 
