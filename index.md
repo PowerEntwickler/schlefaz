@@ -6,7 +6,9 @@
 2. [Folgen](#Folgen)
  
 ## Sendetermine
+
 ### SchleFaZ Abschlussstaffel 2023
+
 Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
 ----------- | --- | ----- | ---- | ---- | --------
 29.09.2023 22:00 | 1?? | [Im Reich der Amazonen](#Im-Reich-der-Amazonen) | 1986 | [⭐4.3](https://www.imdb.com/title/tt0090627/) | AMAZONS PRIME – IT’S BUTT AND BOOBFEST-TIME
@@ -16,12 +18,14 @@ Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
 27.10.2023 22:00 | 1?? | [YETI](#YETI) | 1977 | [⭐4.3](https://www.imdb.com/title/tt0076937) | tba
 
 ### SchleFaZ Adventsstaffel 2023
+
 Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
 ----------- | --- | ----- | ---- | ---- | --------
 01.12.2023 22:00 | 1?? | tba | tba | ⭐tba | tba
 08.12.2023 22:00 | 1?? | tba | tba | ⭐tba | tba
 15.12.2023 22:00 | 1?? | tba | tba | ⭐tba | tba
 22.12.2023 22:00 | 1?? | tba | tba | ⭐tba | tba
+
 ### Letzte Folge
 Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
 ----------- | --- | ----- | ---- | ---- | --------
