@@ -74,7 +74,7 @@ willst Du mit uns ins Land der Amazonen!
 >Der AMAZONS PRIME – IT’S BUTT AND BOOBFEST-TIME ist immer dann zu erheben, wenn nackte Nippel neckisch blitzen oder blanke Pos übers Schlachtfeld flitzen!! Proooost SchleFaaaaaaZ!
 
 ### Dollman vs. Demonic Toys
-<img align="right" src="images/dollman.jpeg" />
+<img src="images/dollman.jpeg" />
 
 **Ein grandios vergeigtes Sequel zu unserem alten SchleFaZ-Klassiker DOLLMAN**  
 _Freitag, 06. Oktober_
