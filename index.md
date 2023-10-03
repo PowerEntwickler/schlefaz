@@ -7,6 +7,8 @@
   - [Folgen](#folgen)
     - [Im Reich der Amazonen](#im-reich-der-amazonen)
       - [AMAZONS PRIME – IT’S BUTT AND BOOBFEST-TIME](#amazons-prime--its-butt-and-boobfest-time)
+    - [Dollman vs. Demonic Toys](#dollman-vs-demonic-toys)
+      - [KLEIN ABER OHO – STECK DEN KOPF INS KLO!](#klein-aber-oho--steck-den-kopf-ins-klo)
  
 ## Sendetermine
 
@@ -14,8 +16,8 @@
 
 Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
 ----------- | --- | ----- | ---- | ---- | --------
-29.09.2023 22:00 | 1?? | [Im Reich der Amazonen](#im-reich-der-amazonen) | 1986 | [⭐4.3](https://www.imdb.com/title/tt0090627/) | AMAZONS PRIME – IT’S BUTT AND BOOBFEST-TIME
-06.10.2023 22:00 | 1?? | DOLLMAN VS DEMONIC TOYS | 1993 | [⭐4.3](https://www.imdb.com/title/tt0106743/) | tba
+29.09.2023 22:00 | 1?? | [Im Reich der Amazonen](#im-reich-der-amazonen) | 1986 | [⭐4.3](https://www.imdb.com/title/tt0090627/) | [AMAZONS PRIME – IT’S BUTT AND BOOBFEST-TIME](#amazons-prime--its-butt-and-boobfest-time)
+06.10.2023 22:00 | 1?? | [Dollman vs. Demonic Toys](#dollman-vs-demonic-toys) | 1993 | [⭐4.3](https://www.imdb.com/title/tt0106743/) | [KLEIN ABER OHO – STECK DEN KOPF INS KLO!](#klein-aber-oho--steck-den-kopf-ins-klo)
 13.10.2023 22:00 | 1?? | DEATHSPORT | 1978 | [⭐4.1](https://www.imdb.com/title/tt0077414/) | tba
 20.10.2023 22:00 | 1?? | BEAST YOU! | 1988 | [⭐4.9](https://www.imdb.com/title/tt0096142) | tba
 27.10.2023 22:00 | 1?? | YETI | 1977 | [⭐4.3](https://www.imdb.com/title/tt0076937) | tba
@@ -41,7 +43,7 @@ Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
 <img align="right" src="images/amazonen.jpg" />
 
 **Jeder Menge leicht bekleideter Amazonen in ihrem Reich rund um eine argentinische Müllkippe**  
-_Freitag, 29. Oktober_
+_Freitag, 29. September_
 
 Ein Epos aus dem finsteren Mittelalter über den legendären verlorenen Stamm der Kriegerinnen.
 
@@ -70,3 +72,43 @@ willst Du mit uns ins Land der Amazonen!
 
 **Trinkspiel:** 
 >Der AMAZONS PRIME – IT’S BUTT AND BOOBFEST-TIME ist immer dann zu erheben, wenn nackte Nippel neckisch blitzen oder blanke Pos übers Schlachtfeld flitzen!! Proooost SchleFaaaaaaZ!
+
+### Dollman vs. Demonic Toys
+<img align="right" src="images/dollman.jpeg" />
+
+**Ein grandios vergeigtes Sequel zu unserem alten SchleFaZ-Klassiker DOLLMAN**  
+_Freitag, 06. Oktober_
+
+Spannung, Spiel und Scheissfilm!  
+Drei Dinge auf einmal?  
+Das geht nun wirklich nicht! DOCH.
+
+Atmosphärisch dicht und belastend inszeniert, wirkt die skurrile Story eher konstruiert und effekthascherisch. Rüde Dialoge, Zwischenschnitte von hämisch grinsenden Puppengesichtern und veräußerlichend spannungssteigernde Musik verstärken diesen Eindruck.  
+(Filmdienst)
+
+#### KLEIN ABER OHO – STECK DEN KOPF INS KLO!
+
+- **GESCHMACK Kategorie:** fruchtig - süß 
+- **Dekoration:** Sternfrucht  
+- **Glas:** Longdrinkglas 0,3 l  
+
+**Zutaten**: 
+- 4cl Jägermeister
+- 3cl Licore 43 (Vanille Likör)
+- 1cl Waldmeistersirup
+- 15cl Maracujasaft
+
+**Zubereitung:** 
+1. Shaker mit Eiswürfeln und den Zutaten befüllen
+2. kräftig shaken, auf Eiswürfeln ins Longdrinkglas abseihen
+
+**Trinkspruch:**
+>Was macht mächtig mega vollstramm?  
+Unser Cocktail... der is doll, Mann!
+
+**Trinkspiel:** 
+>Der KLEIN ABER OHO – STECK DEN KOPF INS KLO! ist immer dann zur alkoholischen Deeskalation einzunehmen, wenn auf dem Bildschirm ein **Akt der Aggression oder Gewalt ausgeübt wird.**  
+_Bei Schlag und Schieß – ein Drink for Peace!_  
+Oder auch:  
+_Wenn andere kämpfen oder raufen, lasst uns für den Frieden saufen! Denn statt zu morden und zu töten, woll’n wir uns lieber einen löten!  
+Proooost SchleFaaaaaaZ!_
