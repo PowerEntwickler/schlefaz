@@ -1,5 +1,6 @@
 # SchleFaZ Abschlussjahr 2023
 - [SchleFaZ Abschlussjahr 2023](#schlefaz-abschlussjahr-2023)
+  - [Discord Watch-Party](#discord-watch-party)
   - [Sendetermine](#sendetermine)
     - [SchleFaZ Abschlussstaffel 2023](#schlefaz-abschlussstaffel-2023)
     - [SchleFaZ Adventsstaffel 2023](#schlefaz-adventsstaffel-2023)
@@ -9,7 +10,14 @@
       - [AMAZONS PRIME – IT’S BUTT AND BOOBFEST-TIME](#amazons-prime--its-butt-and-boobfest-time)
     - [Dollman vs. Demonic Toys](#dollman-vs-demonic-toys)
       - [KLEIN ABER OHO – STECK DEN KOPF INS KLO!](#klein-aber-oho--steck-den-kopf-ins-klo)
- 
+    - [Piranha Sharks](#piranha-sharks)
+      - [HAI-PIRANHA-CAIPIRINHA](#hai-piranha-caipirinha)
+
+## Discord Watch-Party
+- [01.12. Piranha Sharks](https://discord.gg/Csn78jhE?event=1179879700609384650)
+- [08.12. I Bought a Vampire Motorcycle](https://discord.gg/37uMzFjc?event=1179899249643765832)
+- [15.12. Space Truckers](https://discord.gg/37uMzFjc?event=1179899494477865112)
+
 ## Sendetermine
 
 ### SchleFaZ Abschlussstaffel 2023
@@ -26,10 +34,10 @@ Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
 
 Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
 ----------- | --- | ----- | ---- | ---- | --------
-01.12.2023 22:00 | 1?? | tba | tba | ⭐tba | tba
-08.12.2023 22:00 | 1?? | tba | tba | ⭐tba | tba
-15.12.2023 22:00 | 1?? | tba | tba | ⭐tba | tba
-22.12.2023 22:00 | 1?? | tba | tba | ⭐tba | tba
+01.12.2023 22:00 | 1?? | [Piranha Sharks](#piranha_sharks) | 2014 | [⭐3.1](https://www.imdb.com/title/tt3400060/?ref_=fn_al_tt_1) | [HAI-PIRANHA-CAIPIRINHA](#hai-piranha-caipirinha)
+08.12.2023 22:00 | 1?? | I Bought a Vampire Motorcycle | 1990 | [⭐5.5](https://www.imdb.com/title/tt0097550/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_I%2520Bought%2520a%2520Vampire%2520Motorcycle) | tba
+15.12.2023 22:00 | 1?? | Space Truckers | 1996 | [⭐5.4](https://www.imdb.com/title/tt0120199/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Space%2520Truckers) | tba
+22.12.2023 22:00 | 1?? | Hard Ticket to Hawaii | 1987 | [⭐5.0](https://www.imdb.com/title/tt0093146/?ref_=fn_al_tt_1) | tba
 
 ### Letzte Folge
 
@@ -112,3 +120,47 @@ _Bei Schlag und Schieß – ein Drink for Peace!_
 Oder auch:  
 _Wenn andere kämpfen oder raufen, lasst uns für den Frieden saufen! Denn statt zu morden und zu töten, woll’n wir uns lieber einen löten!  
 Proooost SchleFaaaaaaZ!_
+
+###  Piranha Sharks
+<img src="images/pirsharks.jpeg" />
+
+**Ein Fest für Fans von absurden Unterwasser-Actionkomödien!**  
+_Freitag, 01. Dezember_
+
+Leigh Scotts Mini-Version will 
+„#Sharknado“-Fans zu sich ins Boot holen.
+Die kleinen Fische halten mit den großen aber nicht ganz mit — trotz witziger Momente, auch dank Bürgermeister Kevin „Hercules“ Sorbo.
+
+Was dem Film an „Blut und CGI-Effekten“ fehle, mache er gut durch „schwarzen Humor, großartiges Schauspiel und wunderbare Dialoge“. Im Allgemeinen als „sehr unterhaltsam“ und „überraschend gut gemacht“ bezeichnet.  
+(ruthlessreviews.com)
+
+**Handlung**:  
+Genetisch veränderte Weiße Haie, welche die Größe eines Piranhas haben, leben in den Aquarien der reichen Menschen. Nachdem diese in die Wasserversorgung von New York City gelangen tun sie das, was weiße Haie am besten können.
+
+#### HAI-PIRANHA-CAIPIRINHA
+
+- **GESCHMACK Kategorie:** fruchtig - süß 
+- **Dekoration:** Gummitiere - HAIE  
+- **Glas:** Becherglas 0,4 l  
+
+**Zutaten**: 
+- 6cl Danziger Goldwasser
+- 4cl Cachaca
+- 2cl Blue Curacau
+- 2cl Zuckersirup
+- Saft von einer ausgepressten Limette
+
+
+**Zubereitung:** 
+1. Zutaten in ein Becherglas geben, umrühren und das Glas mit Crushed Ice auffüllen
+2. erneut umrühren oder shaken
+3. Dekoration: Gummitiere - HAIE!
+
+**Trinkspruch:**
+>Was kommt hier heute auf den Tisch?  
+Ein Cocktail krass wie’n Killerfisch!
+
+**Trinkspiel:** 
+>Der HAI-PIRANHA-CAIPIRINHA ist immer dann in die orale Wasserrutsche zu schütten, wenn ein Hai, ein Piranha oder PiranhaHai zu sehen ist, in welcher Form auch immer!  
+Also eine ganz klassische Aufgabe. Bei jeder Sichtung von Killerfischen, dürfen wir nen Cocktail zischen – und ob Piranha oder Hai, das ist uns dabei einerlei!  
+Proooost SchleFaaaaaaZ!
