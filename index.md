@@ -34,7 +34,7 @@ Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
 
 Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
 ----------- | --- | ----- | ---- | ---- | --------
-01.12.2023 22:00 | 1?? | [Piranha Sharks](#piranha_sharks) | 2014 | [⭐3.1](https://www.imdb.com/title/tt3400060/?ref_=fn_al_tt_1) | [HAI-PIRANHA-CAIPIRINHA](#hai-piranha-caipirinha)
+01.12.2023 22:00 | 1?? | [Piranha Sharks](#piranha-sharks) | 2014 | [⭐3.1](https://www.imdb.com/title/tt3400060/?ref_=fn_al_tt_1) | [HAI-PIRANHA-CAIPIRINHA](#hai-piranha-caipirinha)
 08.12.2023 22:00 | 1?? | I Bought a Vampire Motorcycle | 1990 | [⭐5.5](https://www.imdb.com/title/tt0097550/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_I%2520Bought%2520a%2520Vampire%2520Motorcycle) | tba
 15.12.2023 22:00 | 1?? | Space Truckers | 1996 | [⭐5.4](https://www.imdb.com/title/tt0120199/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Space%2520Truckers) | tba
 22.12.2023 22:00 | 1?? | Hard Ticket to Hawaii | 1987 | [⭐5.0](https://www.imdb.com/title/tt0093146/?ref_=fn_al_tt_1) | tba
