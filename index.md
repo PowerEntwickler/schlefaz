@@ -1,8 +1,8 @@
 ## Staffel 1  
 **Status:** ✅ complete
 
-| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
-|--------------|---------------|------|------------------|---------------------|
+| Nr. | Folge | Film | Jahr | Ausstrahlung |
+|----|----|------|------------------|---------------------|
 | 1            | 1             | Supershark | 2011 | 26. Juli 2013 |
 | 2            | 2             | Knochenbrecher im Wilden Westen | 1973 | 2. August 2013 |
 | 3            | 3             | The Throne of Fire | 1983 | 9. August 2013 |
