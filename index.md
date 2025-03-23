@@ -1,5 +1,6 @@
 ## Staffel 1  
 **Status:** ✅ complete
+
 | Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
 |--------------|---------------|------|------------------|---------------------|
 | 1            | 1             | Supershark | 2011 | 26. Juli 2013 |
