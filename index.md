@@ -1,166 +1,233 @@
-# SchleFaZ Abschlussjahr 2023
-- [SchleFaZ Abschlussjahr 2023](#schlefaz-abschlussjahr-2023)
-  - [Discord Watch-Party](#discord-watch-party)
-  - [Sendetermine](#sendetermine)
-    - [SchleFaZ Abschlussstaffel 2023](#schlefaz-abschlussstaffel-2023)
-    - [SchleFaZ Adventsstaffel 2023](#schlefaz-adventsstaffel-2023)
-    - [Letzte Folge](#letzte-folge)
-  - [Folgen](#folgen)
-    - [Im Reich der Amazonen](#im-reich-der-amazonen)
-      - [AMAZONS PRIME – IT’S BUTT AND BOOBFEST-TIME](#amazons-prime--its-butt-and-boobfest-time)
-    - [Dollman vs. Demonic Toys](#dollman-vs-demonic-toys)
-      - [KLEIN ABER OHO – STECK DEN KOPF INS KLO!](#klein-aber-oho--steck-den-kopf-ins-klo)
-    - [Piranha Sharks](#piranha-sharks)
-      - [HAI-PIRANHA-CAIPIRINHA](#hai-piranha-caipirinha)
+## Staffel 1  
+**Status:** ✅ complete
+| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+|--------------|---------------|------|------------------|---------------------|
+| 1            | 1             | Supershark | 2011 | 26. Juli 2013 |
+| 2            | 2             | Knochenbrecher im Wilden Westen | 1973 | 2. August 2013 |
+| 3            | 3             | The Throne of Fire | 1983 | 9. August 2013 |
+| 4            | 4             | Piranhas II – Die Rache der Killerfische | 1979 | 16. August 2013 |
+| 5            | 5             | Cherry 2000 | 1987 | 23. August 2013 |
+| 6            | 6             | Hasse deinen Nächsten | 1968 | 30. August 2013 |
+| 7            | 7             | Battlefield Earth – Kampf um die Erde | 2000 | 6. September 2013 |
+| 8            | 8             | Perry Rhodan – SOS aus dem Weltall | 1967 | 13. September 2013 |
+| 9            | 9             | Orcs – Sie kommen, um uns alle zu töten | 2011 | 27. September 2013 |
+| 10           | 10            | Frogs | 1972 | 4. Oktober 2013 |
+| 11           | 11            | Sumuru – Die Tochter des Satans | 1967 | 11. Oktober 2013 |
+| 12           | 12            | Mega Piranha | 2010 | 18. Oktober 2013 |
 
-## Discord Watch-Party
-- [01.12. Piranha Sharks](https://discord.gg/Csn78jhE?event=1179879700609384650)
-- [08.12. I Bought a Vampire Motorcycle](https://discord.gg/37uMzFjc?event=1179899249643765832)
-- [15.12. Space Truckers](https://discord.gg/37uMzFjc?event=1179899494477865112)
+## Staffel 2  
+**Status:** ✅ complete
+| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+|--------------|---------------|------|------------------|---------------------|
+| 13           | 1             | Sharknado – Genug gesagt! | 2013 | 10. Januar 2014 |
+| 14           | 2             | Blacula | 1972 | 7. Februar 2014 |
+| 15           | 3             | Titanic II | 2010 | 7. März 2014 |
+| 16           | 4             | Die sieben Männer der Sumuru | 1969 | 4. April 2014 |
+| 17           | 5             | Monster des Grauens greifen an | 1970 | 2. Mai 2014 |
+| 18           | 6             | Die schwarzen Zombies von Sugar Hill | 1974 | 6. Juni 2014 |
+| 19           | 7             | Zwiebel-Jack räumt auf | 1975 | 11. Juli 2014 |
+| 20           | 8             | Camel Spiders – Angriff der Monsterspinnen | 2011 | 1. August 2014 |
+| 21           | 9             | Sharknado 2 | 2014 | 21. November 2014 |
+| 22           | 10            | Flotte Teens und heiße Jeans | 1975 | 28. November 2014 |
+| 23           | 11            | Airplane vs. Volcano | 2014 | 5. Dezember 2014 |
+| 24           | 12            | Dracula jagt Frankenstein | 1970 | 12. Dezember 2014 |
 
-## Sendetermine
+## Staffel 3  
+**Status:** ✅ complete
+| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+|--------------|---------------|------|------------------|---------------------|
+| 25           | 1             | Der Hammer | 1989 | 19. Juni 2015 |
+| 26           | 2             | Battle of Los Angeles | 2011 | 26. Juni 2015 |
+| 27           | 3             | Pudelnackt in Oberbayern | 1969 | 3. Juli 2015 |
+| 28           | 4             | Xanadu | 1980 | 10. Juli 2015 |
+| 29           | 5             | Mega Python vs. Gatoroid | 2011 | 17. Juli 2015 |
+| 30           | 6             | Der Dampfhammer von Send-Ling | 1979 | 24. Juli 2015 |
+| 31           | 7             | Supersonic Man | 1979 | 31. Juli 2015 |
+| 32           | 8             | Thor – Der Allmächtige | 2011 | 7. August 2015 |
+| 33           | 9             | Double Trouble – Warte, bis mein Bruder kommt | 1992 | 14. August 2015 |
+| 34           | 10            | Vampirella | 1996 | 21. August 2015 |
+| 35           | 11            | Roboter der Sterne | 1974 | 28. August 2015 |
+| 36           | 12            | Sharknado 3 | 2015 | 5. September 2015 |
+| 37           | 13            | Knight Rider 2000 | 1991 | 27. November 2015 |
+| 38           | 14            | Hentai Kamen | 2013 | 4. Dezember 2015 |
+| 39           | 15            | Planet der Dinosaurier | 1977 | 11. Dezember 2015 |
+| 40           | 16            | Snow Sharks | 2013 | 18. Dezember 2015 |
 
-### SchleFaZ Abschlussstaffel 2023
+## Staffel 4  
+**Status:** ✅ complete
+| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+|--------------|---------------|------|------------------|---------------------|
+| 41           | 1             | Musik, Musik – da wackelt die Penne | 1970 | 15. Juli 2016 |
+| 42           | 2             | Arachnoquake | 2012 | 22. Juli 2016 |
+| 43           | 3             | Libero | 1973 | 29. Juli 2016 |
+| 44           | 4             | Allan Quatermain and the Temple of Skulls | 2008 | 5. August 2016 |
+| 45           | 5             | Sharktopus vs. Pteracuda – Kampf der Urzeitgiganten | 2014 | 12. August 2016 |
+| 46           | 6             | Dämonen aus dem All | 1967 | 19. August 2016 |
+| 47           | 7             | Daniel, der Zauberer | 2004 | 26. August 2016 |
+| 48           | 8             | Metropolis 2000 | 1982 | 2. September 2016 |
+| 49           | 9             | Invasion aus dem Innern der Erde | 1975 | 9. September 2016 |
+| 50           | 10            | Ich – ein Groupie | 1970 | 16. September 2016 |
+| 51           | 11            | Ator II – Der Unbesiegbare | 1984 | 23. September 2016 |
+| 52           | 12            | Der Koloß von Konga | 1977 | 30. September 2016 |
+| 53           | 13            | Sharknado 4 | 2016 | 2. Dezember 2016 |
+| 54           | 14            | Wenn die tollen Tanten kommen | 1970 | 9. Dezember 2016 |
+| 55           | 15            | Jack Frost – Der eiskalte Killer | 1997 | 16. Dezember 2016 |
+| 56           | 16            | Santa Claus | 1959 | 23. Dezember 2016 |
 
-Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
------------ | --- | ----- | ---- | ---- | --------
-29.09.2023 22:00 | 1?? | [Im Reich der Amazonen](#im-reich-der-amazonen) | 1986 | [⭐4.3](https://www.imdb.com/title/tt0090627/) | [AMAZONS PRIME – IT’S BUTT AND BOOBFEST-TIME](#amazons-prime--its-butt-and-boobfest-time)
-06.10.2023 22:00 | 1?? | [Dollman vs. Demonic Toys](#dollman-vs-demonic-toys) | 1993 | [⭐4.3](https://www.imdb.com/title/tt0106743/) | [KLEIN ABER OHO – STECK DEN KOPF INS KLO!](#klein-aber-oho--steck-den-kopf-ins-klo)
-13.10.2023 22:00 | 1?? | DEATHSPORT | 1978 | [⭐4.1](https://www.imdb.com/title/tt0077414/) | tba
-20.10.2023 22:00 | 1?? | BEAST YOU! | 1988 | [⭐4.9](https://www.imdb.com/title/tt0096142) | tba
-27.10.2023 22:00 | 1?? | YETI | 1977 | [⭐4.3](https://www.imdb.com/title/tt0076937) | tba
+## Staffel 5  
+**Status:** ✅ complete
+| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+|--------------|---------------|------|------------------|---------------------|
+| 57           | 1             | Hentai Kamen 2 – Abnormal Crisis | 2016 | 30. Juni 2017 |
+| 58           | 2             | Im Dschungel ist der Teufel los | 1982 | 7. Juli 2017 |
+| 59           | 3             | Avengers Grimm | 2015 | 14. Juli 2017 |
+| 60           | 4             | Macho Man | 1985 | 21. Juli 2017 |
+| 61           | 5             | Hobgoblins | 1988 | 28. Juli 2017 |
+| 62           | 6             | Samurai Cop | 1991 | 4. August 2017 |
+| 63           | 7             | Sunshine Reggae auf Ibiza | 1983 | 11. August 2017 |
+| 64           | 8             | Abraham Lincoln vs. Zombies | 2012 | 18. August 2017 |
+| 65           | 9             | Die Brut des Bösen | 1979 | 25. August 2017 |
+| 66           | 10            | Sharktopus vs. Whalewolf | 2015 | 1. September 2017 |
+| 67           | 11            | Max und Moritz Reloaded | 2005 | 8. September 2017 |
+| 68           | 12            | Star Crash – Sterne im Duell | 1978 | 15. September 2017 |
+| 69           | 13            | Sharknado 5: Global Swarming | 2017 | 1. Dezember 2017 |
+| 70           | 14            | Lord of the Elves – Das Zeitalter der Halblinge | 2012 | 8. Dezember 2017 |
+| 71           | 15            | Bigfoot – Die Legende lebt! | 2012 | 15. Dezember 2017 |
+| 72           | 16            | Mister Dynamit – Morgen küßt Euch der Tod | 1967 | 22. Dezember 2017 |
 
-### SchleFaZ Adventsstaffel 2023
+## Staffel 6  
+**Status:** ✅ complete
+| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+|--------------|---------------|------|------------------|---------------------|
+| 73           | 1             | Spiceworld – Der Film | 1997 | 6. April 2018 |
+| 74           | 2             | Der Polyp – Die Bestie mit den Todesarmen | 1977 | 13. April 2018 |
+| 75           | 3             | Herkules | 1983 | 20. April 2018 |
+| 76           | 4             | Argoman – Der phantastische Supermann | 1967 | 27. April 2018 |
+| 77           | 5             | Die Rückkehr des King Kong | 1962 | 3. August 2018 |
+| 78           | 6             | Strippers vs Werewolves | 2012 | 10. August 2018 |
+| 79           | 7             | Slugs | 1988 | 17. August 2018 |
+| 80           | 8             | Die Todesgöttin des Liebescamps | 1981 | 24. August 2018 |
+| 81           | 9             | Saltwater: Atomic Shark | 2016 | 31. August 2018 |
+| 82           | 10            | Die Insel der Ungeheuer | 1976 | 7. September 2018 |
+| 83           | 11            | Mächte des Lichts | 1982 | 14. September 2018 |
+| 84           | 12            | Cowboys vs. Dinosaurs | 2015 | 21. September 2018 |
+| 85           | 13            | Sharknado 6: The Last One | 2018 | 30. November 2018 |
+| 86           | 14            | Gefangene im Weltraum | 1986 | 7. Dezember 2018 |
+| 87           | 15            | Der letzte Lude | 2003 | 14. Dezember 2018 |
+| 88           | 16            | Jack Frost 2 – Die Rache des Killerschneemanns | 2000 | 21. Dezember 2018 |
 
-Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
------------ | --- | ----- | ---- | ---- | --------
-01.12.2023 22:00 | 1?? | [Piranha Sharks](#piranha-sharks) | 2014 | [⭐3.1](https://www.imdb.com/title/tt3400060/?ref_=fn_al_tt_1) | [HAI-PIRANHA-CAIPIRINHA](#hai-piranha-caipirinha)
-08.12.2023 22:00 | 1?? | I Bought a Vampire Motorcycle | 1990 | [⭐5.5](https://www.imdb.com/title/tt0097550/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_I%2520Bought%2520a%2520Vampire%2520Motorcycle) | tba
-15.12.2023 22:00 | 1?? | Space Truckers | 1996 | [⭐5.4](https://www.imdb.com/title/tt0120199/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Space%2520Truckers) | tba
-22.12.2023 22:00 | 1?? | Hard Ticket to Hawaii | 1987 | [⭐5.0](https://www.imdb.com/title/tt0093146/?ref_=fn_al_tt_1) | tba
+## Staffel 7  
+**Status:** ✅ complete
+| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+|--------------|---------------|------|------------------|---------------------|
+| 89           | 1             | Captain America | 1990 | 26. April 2019 |
+| 90           | 2             | Nightbeast – Terror aus dem Weltall | 1982 | 3. Mai 2019 |
+| 91           | 3             | Dragon Crusaders – Im Reich der Kreuzritter und Drachen | 2011 | 10. Mai 2019 |
+| 92           | 4             | Der Mann mit den zwei Köpfen | 1971 | 17. Mai 2019 |
+| 93           | 5             | Plan 9 aus dem Weltall | 1959 | 23. August 2019 |
+| 94           | 6             | Dirndljagd am Kilimandscharo | 1983 | 30. August 2019 |
+| 95           | 7             | Die fliegenden Feuerstühle | 1973 | 6. September 2019 |
+| 96           | 8             | Evil Toons – Flotte Teens im Geisterhaus | 1992 | 13. September 2019 |
+| 97           | 9             | Atomic Hero | 1985 | 20. September 2019 |
+| 98           | 10            | Hausfrauen-Report 3 | 1972 | 27. September 2019 |
+| 99           | 11            | Laserkill – Todesstrahlen aus dem All | 1978 | 4. Oktober 2019 |
+| 100          | 12            | Drei Engel auf der Todesinsel | 1985 | 11. Oktober 2019 |
+| 101          | 13            | The Bees – Operation Todesstachel | 1978 | 29. November 2019 |
+| 102          | 14            | Santa’s Slay – Blutige Weihnachten | 2005 | 6. Dezember 2019 |
+| 103          | 15            | Die neuen Abenteuer des Herkules | 1985 | 13. Dezember 2019 |
+| 104          | 16            | 6-Headed Shark Attack | 2018 | 20. Dezember 2019 |
 
-### Letzte Folge
+## Staffel 8  
+**Status:** ✅ complete
+| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+|--------------|---------------|------|------------------|---------------------|
+| 105          | 1             | Troll 2 | 1990 | 24. April 2020 |
+| 106          | 2             | Das rote Phantom schlägt zu | 1966 | 1. Mai 2020 |
+| 107          | 3             | Ator – Herr des Feuers | 1982 | 8. Mai 2020 |
+| 108          | 4             | Trabbi goes to Hollywood | 1991 | 15. Mai 2020 |
+| 109          | 5             | Tödliche Beute | 1987 | 22. Mai 2020 |
+| 110          | 6             | Der sechste Kontinent | 1976 | 29. Mai 2020 |
+| 111          | 7             | Rock Aliens | 1984 | 14. August 2020 |
+| 112          | 8             | Die Mumie des Pharao | 1981 | 21. August 2020 |
+| 113          | 9             | Laß jucken, Kumpel | 1972 | 28. August 2020 |
+| 114          | 10            | Angriff der Riesenspinne | 1975 | 4. September 2020 |
+| 115          | 11            | Dollman | 1991 | 11. September 2020 |
+| 116          | 12            | Masters of the Universe | 1987 | 18. September 2020 |
+| 117          | 13            | Planet of the Sharks | 2016 | 27. November 2020 |
+| 118          | 14            | R.O.T.O.R. | 1987 | 4. Dezember 2020 |
+| 119          | 15            | Gefangene des Universums | 1983 | 11. Dezember 2020 |
+| 120          | 16            | Das Gehirn | 1988 | 18. Dezember 2020 |
 
-Sendetermin | Nr. | Titel | Jahr | IMDb | Cocktail
------------ | --- | ----- | ---- | ---- | --------
-31.12.2023 ??:00 | 1?? | "Good-Bye #SchleFaZ" | tba | ⭐tba | tba
+## Staffel 9  
+**Status:** ✅ complete
+| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+|--------------|---------------|------|------------------|---------------------|
+| 121          | 1             | Macabra – Die Hand des Teufels | 1981 | 9. April 2021 |
+| 122          | 2             | America 3000 | 1986 | 16. April 2021 |
+| 123          | 3             | Zombie Nightmare | 1986 | 23. April 2021 |
+| 124          | 4             | Angel’s Höllenkommando | 1985 | 30. April 2021 |
+| 125          | 5             | Helden der Nacht (Disco Godfather) | 1979 | 27. August 2021 |
+| 126          | 6             | Sloane – Die Gewalt im Nacken | 1985 | 3. September 2021 |
+| 127          | 7             | Time Breaker | 1975 | 10. September 2021 |
+| 128          | 8             | Angriff der Riesenkralle | 1957 | 17. September 2021 |
+| 129          | 9             | Das Söldnerkommando | 1982 | 24. September 2021 |
+| 130          | 10            | Kampf um die 5. Galaxis | 1979 | 1. Oktober 2021 |
+| 131          | 11            | Rise of the Animals – Mensch vs. Biest | 2011 | 8. Oktober 2021 |
+| 132          | 12            | Liebesgrüße aus Fernost | 1973 | 15. Oktober 2021 |
+| 133          | 13            | Roboshark | 2015 | 19. November 2021 |
+| 134          | 14            | Sadomona – Insel der teuflischen Frauen | 1974 | 26. November 2021 |
+| 135          | 15            | Der Krieger und die Hexe | 1984 | 3. Dezember 2021 |
+| 136          | 16            | Ach jodel mir noch einen | 1974 | 10. Dezember 2021 |
 
-## Folgen
+## Staffel 10  
+**Status:** ❌ incomplete
+| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+|--------------|---------------|------|------------------|---------------------|
+| 137          | 1             | Super Mario Bros. | 1993 | 18. März 2022 |
+| 138          | 2             | Im Angesicht der Hölle | 1987 | 25. März 2022 |
+| 139          | 3 ❌          | Jäger der verschollenen Galaxie | 1987 | 1. April 2022 |
+| 140          | 4             | Grizzly II: Revenge | 2020 | 8. April 2022 |
+| 141          | 5             | Hai-Alarm auf Mallorca | 2004 | 9. September 2022 |
+| 142          | 6             | Die Barbaren | 1987 | 16. September 2022 |
+| 143          | 7             | Karamurat – sein Kungfu ist tödlich | 1977 | 23. September 2022 |
+| 144          | 8             | Creatures from the Abyss | 1994 | 30. September 2022 |
+| 145          | 9             | Der scharlachrote Henker | 1965 | 7. Oktober 2022 |
+| 146          | 10            | Die Nordmänner | 1978 | 14. Oktober 2022 |
+| 147          | 11            | In der Gewalt der Riesenameisen | 1977 | 21. Oktober 2022 |
+| 148          | 12 ❌         | Gib Gas – Ich will Spaß | 1982 | 28. Oktober 2022 |
 
-### Im Reich der Amazonen
-<img align="right" src="images/amazonen.jpg" />
+## Staffel 11  
+**Status:** ✅ complete
+| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+|--------------|---------------|------|------------------|---------------------|
+| 149          | 1             | Vier Fäuste schlagen wieder zu | 1974 | 7. April 2023 |
+| 150          | 2             | Teenage T-Rex: Der Menschen-Dinosaurier | 1994 | 14. April 2023 |
+| 151          | 3             | Megaforce | 1982 | 21. April 2023 |
+| 152          | 4             | Bierfest | 2006 | 28. April 2023 |
+| 153          | 5             | Supersound und flotte Sprüche | 1980 | 8. September 2023 |
+| 154          | 6             | Mutant – Das Grauen im All | 1982 | 15. September 2023 |
+| 155          | 7             | Wizards of the Lost Kingdom | 1985 | 22. September 2023 |
+| 156          | 8             | [Im Reich der Amazonen](episodes/156.md) | 1986 | 29. September 2023 |
+| 157          | 9             | Tod im Spielzeugland | 1993 | 6. Oktober 2023 |
+| 158          | 10            | Giganten mit stählernen Fäusten | 1978 | 13. Oktober 2023 |
+| 159          | 11            | Beast You! | 1988 | 20. Oktober 2023 |
+| 160          | 12            | Yeti – Der Schneemensch kommt | 1977 | 27. Oktober 2023 |
+| 161          | 13            | Piranha Sharks | 2017 | 1. Dezember 2023 |
+| 162          | 14            | Iron Thunder | 1990 | 8. Dezember 2023 |
+| 163          | 15            | Space Truckers | 1996 | 15. Dezember 2023 |
+| 164          | 16            | Hard Ticket to Hawaii | 1987 | 22. Dezember 2023 |
 
-**Jeder Menge leicht bekleideter Amazonen in ihrem Reich rund um eine argentinische Müllkippe**  
-_Freitag, 29. September_
-
-Ein Epos aus dem finsteren Mittelalter über den legendären verlorenen Stamm der Kriegerinnen.
-
-Ein ebenso krudes wie simples Fantasy-Abenteuer, 
-das sich nur für einige Grausamkeiten und die unverhohlen sexistisch ausgestellten körperlichen Reize der Darstellerinnen interessiert (Lexikon des internationalen Films)
-
-#### AMAZONS PRIME – IT’S BUTT AND BOOBFEST-TIME
-
-- **GESCHMACK Kategorie:** fruchtig - aromatisch 
-- **Dekoration:** Schlange (Fruchtgummi)  
-- **Glas:** Longdrinkglas 0,3 l  
-
-**Zutaten**: 
-- 5cl Cachaca
-- 3cl Lakritzlikör
-- 1cl Zitronensaft
-- 15cl Kirschsaft 
-
-**Zubereitung:** 
-1. Shaker mit Eiswürfeln und den Zutaten befüllen
-2. Kräftig shaken, auf Eiswürfeln ins Longdrinkglas abseihen
-
-**Trinkspruch:**
->Heute gibt’s kein „Leber schonen“...
-willst Du mit uns ins Land der Amazonen!
-
-**Trinkspiel:** 
->Der AMAZONS PRIME – IT’S BUTT AND BOOBFEST-TIME ist immer dann zu erheben, wenn nackte Nippel neckisch blitzen oder blanke Pos übers Schlachtfeld flitzen!! Proooost SchleFaaaaaaZ!
-
-### Dollman vs. Demonic Toys
-<img src="images/dollman.jpeg" />
-
-**Ein grandios vergeigtes Sequel zu unserem alten SchleFaZ-Klassiker DOLLMAN**  
-_Freitag, 06. Oktober_
-
-Spannung, Spiel und Scheissfilm!  
-Drei Dinge auf einmal?  
-Das geht nun wirklich nicht! DOCH.
-
-Atmosphärisch dicht und belastend inszeniert, wirkt die skurrile Story eher konstruiert und effekthascherisch. Rüde Dialoge, Zwischenschnitte von hämisch grinsenden Puppengesichtern und veräußerlichend spannungssteigernde Musik verstärken diesen Eindruck.  
-(Filmdienst)
-
-#### KLEIN ABER OHO – STECK DEN KOPF INS KLO!
-
-- **GESCHMACK Kategorie:** fruchtig - süß 
-- **Dekoration:** Sternfrucht  
-- **Glas:** Longdrinkglas 0,3 l  
-
-**Zutaten**: 
-- 4cl Jägermeister
-- 3cl Licore 43 (Vanille Likör)
-- 1cl Waldmeistersirup
-- 15cl Maracujasaft
-
-**Zubereitung:** 
-1. Shaker mit Eiswürfeln und den Zutaten befüllen
-2. kräftig shaken, auf Eiswürfeln ins Longdrinkglas abseihen
-
-**Trinkspruch:**
->Was macht mächtig mega vollstramm?  
-Unser Cocktail... der is doll, Mann!
-
-**Trinkspiel:** 
->Der KLEIN ABER OHO – STECK DEN KOPF INS KLO! ist immer dann zur alkoholischen Deeskalation einzunehmen, wenn auf dem Bildschirm ein **Akt der Aggression oder Gewalt ausgeübt wird.**  
-_Bei Schlag und Schieß – ein Drink for Peace!_  
-Oder auch:  
-_Wenn andere kämpfen oder raufen, lasst uns für den Frieden saufen! Denn statt zu morden und zu töten, woll’n wir uns lieber einen löten!  
-Proooost SchleFaaaaaaZ!_
-
-###  Piranha Sharks
-<img src="images/pirsharks.jpeg" />
-
-**Ein Fest für Fans von absurden Unterwasser-Actionkomödien!**  
-_Freitag, 01. Dezember_
-
-Leigh Scotts Mini-Version will 
-„#Sharknado“-Fans zu sich ins Boot holen.
-Die kleinen Fische halten mit den großen aber nicht ganz mit — trotz witziger Momente, auch dank Bürgermeister Kevin „Hercules“ Sorbo.
-
-Was dem Film an „Blut und CGI-Effekten“ fehle, mache er gut durch „schwarzen Humor, großartiges Schauspiel und wunderbare Dialoge“. Im Allgemeinen als „sehr unterhaltsam“ und „überraschend gut gemacht“ bezeichnet.  
-(ruthlessreviews.com)
-
-**Handlung**:  
-Genetisch veränderte Weiße Haie, welche die Größe eines Piranhas haben, leben in den Aquarien der reichen Menschen. Nachdem diese in die Wasserversorgung von New York City gelangen tun sie das, was weiße Haie am besten können.
-
-#### HAI-PIRANHA-CAIPIRINHA
-
-- **GESCHMACK Kategorie:** fruchtig - süß 
-- **Dekoration:** Gummitiere - HAIE  
-- **Glas:** Becherglas 0,4 l  
-
-**Zutaten**: 
-- 6cl Danziger Goldwasser
-- 4cl Cachaca
-- 2cl Blue Curacau
-- 2cl Zuckersirup
-- Saft von einer ausgepressten Limette
-
-
-**Zubereitung:** 
-1. Zutaten in ein Becherglas geben, umrühren und das Glas mit Crushed Ice auffüllen
-2. erneut umrühren oder shaken
-3. Dekoration: Gummitiere - HAIE!
-
-**Trinkspruch:**
->Was kommt hier heute auf den Tisch?  
-Ein Cocktail krass wie’n Killerfisch!
-
-**Trinkspiel:** 
->Der HAI-PIRANHA-CAIPIRINHA ist immer dann in die orale Wasserrutsche zu schütten, wenn ein Hai, ein Piranha oder PiranhaHai zu sehen ist, in welcher Form auch immer!  
-Also eine ganz klassische Aufgabe. Bei jeder Sichtung von Killerfischen, dürfen wir nen Cocktail zischen – und ob Piranha oder Hai, das ist uns dabei einerlei!  
-Proooost SchleFaaaaaaZ!
+## Staffel 12  
+**Status:** ✅ complete
+| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+|--------------|---------------|------|------------------|---------------------|
+| 165          | 1             | S.O.S. Barracuda: Der Tod spielt Roulette | 1999 | 30. August 2024 |
+| 166          | 2             | Aerobicide | 1987 | 6. September 2024 |
+| 167          | 3             | A*P*E | 1976 | 13. September 2024 |
+| 168          | 4             | Der Einzelkämpfer | 1978 | 20. September 2024 |
+| 169          | 5             | Sand Sharks | 2012 | 27. September 2024 |
+| 170          | 6             | Future Zone | 1990 | 4. Oktober 2024 |
+| 171          | 7             | Die Schreckensmacht der Zombies | 1977 | 11. Oktober 2024 |
+| 172          | 8             | Frankensteins Kung Fu Monster | 1975 | 18. Oktober 2024 |
+| 173          | 9             | Octaman – Die Bestie aus der Tiefe | 1971 | 25. Oktober 2024 |
+| 174          | 10            | Der Gorilla von Soho | 1968 | 1. November 2024 |
