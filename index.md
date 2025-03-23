@@ -1,5 +1,4 @@
 ## Staffel 1  
-**Status:** ✅ complete
 
 | Nr. | Folge | Film | Jahr | Ausstrahlung |
 |----|----|------|------------------|---------------------|
@@ -19,7 +18,7 @@
 ## Staffel 2  
 **Status:** ✅ complete
 
-| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+| Nr. | Folge | Film | Jahr | Ausstrahlung |
 |--------------|---------------|------|------------------|---------------------|
 | 13           | 1             | Sharknado – Genug gesagt! | 2013 | 10. Januar 2014 |
 | 14           | 2             | Blacula | 1972 | 7. Februar 2014 |
@@ -35,9 +34,8 @@
 | 24           | 12            | Dracula jagt Frankenstein | 1970 | 12. Dezember 2014 |
 
 ## Staffel 3  
-**Status:** ✅ complete
 
-| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+| Nr. | Folge | Film | Jahr | Ausstrahlung |
 |--------------|---------------|------|------------------|---------------------|
 | 25           | 1             | Der Hammer | 1989 | 19. Juni 2015 |
 | 26           | 2             | Battle of Los Angeles | 2011 | 26. Juni 2015 |
@@ -57,9 +55,8 @@
 | 40           | 16            | Snow Sharks | 2013 | 18. Dezember 2015 |
 
 ## Staffel 4  
-**Status:** ✅ complete
 
-| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+| Nr. | Folge | Film | Jahr | Ausstrahlung |
 |--------------|---------------|------|------------------|---------------------|
 | 41           | 1             | Musik, Musik – da wackelt die Penne | 1970 | 15. Juli 2016 |
 | 42           | 2             | Arachnoquake | 2012 | 22. Juli 2016 |
@@ -79,9 +76,8 @@
 | 56           | 16            | Santa Claus | 1959 | 23. Dezember 2016 |
 
 ## Staffel 5  
-**Status:** ✅ complete
 
-| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+| Nr. | Folge | Film | Jahr | Ausstrahlung |
 |--------------|---------------|------|------------------|---------------------|
 | 57           | 1             | Hentai Kamen 2 – Abnormal Crisis | 2016 | 30. Juni 2017 |
 | 58           | 2             | Im Dschungel ist der Teufel los | 1982 | 7. Juli 2017 |
@@ -101,9 +97,8 @@
 | 72           | 16            | Mister Dynamit – Morgen küßt Euch der Tod | 1967 | 22. Dezember 2017 |
 
 ## Staffel 6  
-**Status:** ✅ complete
 
-| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+| Nr. | Folge | Film | Jahr | Ausstrahlung |
 |--------------|---------------|------|------------------|---------------------|
 | 73           | 1             | Spiceworld – Der Film | 1997 | 6. April 2018 |
 | 74           | 2             | Der Polyp – Die Bestie mit den Todesarmen | 1977 | 13. April 2018 |
@@ -123,9 +118,8 @@
 | 88           | 16            | Jack Frost 2 – Die Rache des Killerschneemanns | 2000 | 21. Dezember 2018 |
 
 ## Staffel 7  
-**Status:** ✅ complete
 
-| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+| Nr. | Folge | Film | Jahr | Ausstrahlung |
 |--------------|---------------|------|------------------|---------------------|
 | 89           | 1             | Captain America | 1990 | 26. April 2019 |
 | 90           | 2             | Nightbeast – Terror aus dem Weltall | 1982 | 3. Mai 2019 |
@@ -145,9 +139,8 @@
 | 104          | 16            | 6-Headed Shark Attack | 2018 | 20. Dezember 2019 |
 
 ## Staffel 8  
-**Status:** ✅ complete
 
-| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+| Nr. | Folge | Film | Jahr | Ausstrahlung |
 |--------------|---------------|------|------------------|---------------------|
 | 105          | 1             | Troll 2 | 1990 | 24. April 2020 |
 | 106          | 2             | Das rote Phantom schlägt zu | 1966 | 1. Mai 2020 |
@@ -167,9 +160,8 @@
 | 120          | 16            | Das Gehirn | 1988 | 18. Dezember 2020 |
 
 ## Staffel 9  
-**Status:** ✅ complete
 
-| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+| Nr. | Folge | Film | Jahr | Ausstrahlung |
 |--------------|---------------|------|------------------|---------------------|
 | 121          | 1             | Macabra – Die Hand des Teufels | 1981 | 9. April 2021 |
 | 122          | 2             | America 3000 | 1986 | 16. April 2021 |
@@ -189,9 +181,8 @@
 | 136          | 16            | Ach jodel mir noch einen | 1974 | 10. Dezember 2021 |
 
 ## Staffel 10  
-**Status:** ❌ incomplete
 
-| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+| Nr. | Folge | Film | Jahr | Ausstrahlung |
 |--------------|---------------|------|------------------|---------------------|
 | 137          | 1             | Super Mario Bros. | 1993 | 18. März 2022 |
 | 138          | 2             | Im Angesicht der Hölle | 1987 | 25. März 2022 |
@@ -207,9 +198,8 @@
 | 148          | 12 ❌         | Gib Gas – Ich will Spaß | 1982 | 28. Oktober 2022 |
 
 ## Staffel 11  
-**Status:** ✅ complete
 
-| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+| Nr. | Folge | Film | Jahr | Ausstrahlung |
 |--------------|---------------|------|------------------|---------------------|
 | 149          | 1             | Vier Fäuste schlagen wieder zu | 1974 | 7. April 2023 |
 | 150          | 2             | Teenage T-Rex: Der Menschen-Dinosaurier | 1994 | 14. April 2023 |
@@ -229,9 +219,8 @@
 | 164          | 16            | Hard Ticket to Hawaii | 1987 | 22. Dezember 2023 |
 
 ## Staffel 12  
-**Status:** ✅ complete
 
-| Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
+| Nr. | Folge | Film | Jahr | Ausstrahlung |
 |--------------|---------------|------|------------------|---------------------|
 | 165          | 1             | S.O.S. Barracuda: Der Tod spielt Roulette | 1999 | 30. August 2024 |
 | 166          | 2             | Aerobicide | 1987 | 6. September 2024 |
