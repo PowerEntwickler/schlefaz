@@ -3,21 +3,22 @@
 
 | Nr. | Folge | Film | Jahr | Ausstrahlung |
 |----|----|------|------------------|---------------------|
-| 1            | 1             | Supershark | 2011 | 26. Juli 2013 |
-| 2            | 2             | Knochenbrecher im Wilden Westen | 1973 | 2. August 2013 |
-| 3            | 3             | The Throne of Fire | 1983 | 9. August 2013 |
-| 4            | 4             | Piranhas II – Die Rache der Killerfische | 1979 | 16. August 2013 |
-| 5            | 5             | Cherry 2000 | 1987 | 23. August 2013 |
-| 6            | 6             | Hasse deinen Nächsten | 1968 | 30. August 2013 |
-| 7            | 7             | Battlefield Earth – Kampf um die Erde | 2000 | 6. September 2013 |
-| 8            | 8             | Perry Rhodan – SOS aus dem Weltall | 1967 | 13. September 2013 |
-| 9            | 9             | Orcs – Sie kommen, um uns alle zu töten | 2011 | 27. September 2013 |
-| 10           | 10            | Frogs | 1972 | 4. Oktober 2013 |
-| 11           | 11            | Sumuru – Die Tochter des Satans | 1967 | 11. Oktober 2013 |
-| 12           | 12            | Mega Piranha | 2010 | 18. Oktober 2013 |
+| 1            | 1   | Supershark | 2011 | 26. Juli 2013 |
+| 2            | 2   | Knochenbrecher im Wilden Westen | 1973 | 2. August 2013 |
+| 3            | 3   | The Throne of Fire | 1983 | 9. August 2013 |
+| 4            | 4   | Piranhas II – Die Rache der Killerfische | 1979 | 16. August 2013 |
+| 5            | 5   | Cherry 2000 | 1987 | 23. August 2013 |
+| 6            | 6   | Hasse deinen Nächsten | 1968 | 30. August 2013 |
+| 7            | 7   | Battlefield Earth – Kampf um die Erde | 2000 | 6. September 2013 |
+| 8            | 8   | Perry Rhodan – SOS aus dem Weltall | 1967 | 13. September 2013 |
+| 9            | 9   | Orcs – Sie kommen, um uns alle zu töten | 2011 | 27. September 2013 |
+| 10           | 10  | Frogs | 1972 | 4. Oktober 2013 |
+| 11           | 11  | Sumuru – Die Tochter des Satans | 1967 | 11. Oktober 2013 |
+| 12           | 12  | Mega Piranha | 2010 | 18. Oktober 2013 |
 
 ## Staffel 2  
 **Status:** ✅ complete
+
 | Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
 |--------------|---------------|------|------------------|---------------------|
 | 13           | 1             | Sharknado – Genug gesagt! | 2013 | 10. Januar 2014 |
@@ -35,6 +36,7 @@
 
 ## Staffel 3  
 **Status:** ✅ complete
+
 | Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
 |--------------|---------------|------|------------------|---------------------|
 | 25           | 1             | Der Hammer | 1989 | 19. Juni 2015 |
@@ -56,6 +58,7 @@
 
 ## Staffel 4  
 **Status:** ✅ complete
+
 | Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
 |--------------|---------------|------|------------------|---------------------|
 | 41           | 1             | Musik, Musik – da wackelt die Penne | 1970 | 15. Juli 2016 |
@@ -77,6 +80,7 @@
 
 ## Staffel 5  
 **Status:** ✅ complete
+
 | Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
 |--------------|---------------|------|------------------|---------------------|
 | 57           | 1             | Hentai Kamen 2 – Abnormal Crisis | 2016 | 30. Juni 2017 |
@@ -98,6 +102,7 @@
 
 ## Staffel 6  
 **Status:** ✅ complete
+
 | Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
 |--------------|---------------|------|------------------|---------------------|
 | 73           | 1             | Spiceworld – Der Film | 1997 | 6. April 2018 |
@@ -119,6 +124,7 @@
 
 ## Staffel 7  
 **Status:** ✅ complete
+
 | Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
 |--------------|---------------|------|------------------|---------------------|
 | 89           | 1             | Captain America | 1990 | 26. April 2019 |
@@ -140,6 +146,7 @@
 
 ## Staffel 8  
 **Status:** ✅ complete
+
 | Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
 |--------------|---------------|------|------------------|---------------------|
 | 105          | 1             | Troll 2 | 1990 | 24. April 2020 |
@@ -161,6 +168,7 @@
 
 ## Staffel 9  
 **Status:** ✅ complete
+
 | Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
 |--------------|---------------|------|------------------|---------------------|
 | 121          | 1             | Macabra – Die Hand des Teufels | 1981 | 9. April 2021 |
@@ -182,6 +190,7 @@
 
 ## Staffel 10  
 **Status:** ❌ incomplete
+
 | Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
 |--------------|---------------|------|------------------|---------------------|
 | 137          | 1             | Super Mario Bros. | 1993 | 18. März 2022 |
@@ -199,6 +208,7 @@
 
 ## Staffel 11  
 **Status:** ✅ complete
+
 | Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
 |--------------|---------------|------|------------------|---------------------|
 | 149          | 1             | Vier Fäuste schlagen wieder zu | 1974 | 7. April 2023 |
@@ -220,6 +230,7 @@
 
 ## Staffel 12  
 **Status:** ✅ complete
+
 | Nr. (gesamt) | Nr. (Staffel) | Film | Erscheinungsjahr | Ausstrahlungstermin |
 |--------------|---------------|------|------------------|---------------------|
 | 165          | 1             | S.O.S. Barracuda: Der Tod spielt Roulette | 1999 | 30. August 2024 |
