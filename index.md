@@ -16,7 +16,6 @@
 | 12           | 12  | Mega Piranha | 2010 | 18. Oktober 2013 |
 
 ## Staffel 2  
-**Status:** ✅ complete
 
 | Nr. | Folge | Film | Jahr | Ausstrahlung |
 |--------------|---------------|------|------------------|---------------------|
