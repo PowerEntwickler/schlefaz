@@ -1,3 +1,13 @@
+{% for season in site.seasons %}
+  <h2>{{ season.name }} - {{ season.year }}</h2>
+  <p>{{ season.content | markdownify }}</p>
+{% endfor %}
+
+{% for season in site.seasons %}
+  ## {{ season.name }}  ({{ season.year }})
+  <p>{{ season.content | markdownify }}</p>
+{% endfor %}
+
 ## Staffel 1  (2013)
 
 | Nr. | Folge | Film | Alt | Jahr | <img style="vertical-align:middle" src="images/i.png" title="IMDB"/> | <img style="vertical-align:middle" src="images/tmdb.png" title="The Movie Database"/> | <img style="vertical-align:middle" src="images/r.png" title="Rotten Tomatoes"/> | <img style="vertical-align:middle" src="images/fd.png" title="filmdienst.de" /> | <img style="vertical-align:middle" src="images/c.png" title="cinema.de"/> |
@@ -158,7 +168,7 @@
 | 119          | 15            | Gefangene des Universums | 1983 | 11. Dezember 2020 |
 | 120          | 16            | Das Gehirn | 1988 | 18. Dezember 2020 |
 
-## Staffel 9  
+## Staffel 9 (2021)  
 
 | Nr. | Folge | Film | Jahr | Ausstrahlung |
 |--------------|---------------|------|------------------|---------------------|
@@ -166,7 +176,7 @@
 | 122          | 2             | America 3000 | 1986 | 16. April 2021 |
 | 123          | 3             | Zombie Nightmare | 1986 | 23. April 2021 |
 | 124          | 4             | Angel’s Höllenkommando | 1985 | 30. April 2021 |
-| 125          | 5             | Helden der Nacht (Disco Godfather) | 1979 | 27. August 2021 |
+| 125          | 5             | [Helden der Nacht (Disco Godfather)](episodes/125.md) | 1979 | 27. August 2021 |
 | 126          | 6             | Sloane – Die Gewalt im Nacken | 1985 | 3. September 2021 |
 | 127          | 7             | Time Breaker | 1975 | 10. September 2021 |
 | 128          | 8             | Angriff der Riesenkralle | 1957 | 17. September 2021 |
@@ -179,13 +189,13 @@
 | 135          | 15            | Der Krieger und die Hexe | 1984 | 3. Dezember 2021 |
 | 136          | 16            | Ach jodel mir noch einen | 1974 | 10. Dezember 2021 |
 
-## Staffel 10  
+## Staffel 10 (2022)  
 
 | Nr. | Folge | Film | Jahr | Ausstrahlung |
 |--------------|---------------|------|------------------|---------------------|
 | 137          | 1             | Super Mario Bros. | 1993 | 18. März 2022 |
 | 138          | 2             | Im Angesicht der Hölle | 1987 | 25. März 2022 |
-| 139          | 3 ❌          | Jäger der verschollenen Galaxie | 1987 | 1. April 2022 |
+| 139          | 3             | Jäger der verschollenen Galaxie | 1987 | 1. April 2022 |
 | 140          | 4             | Grizzly II: Revenge | 2020 | 8. April 2022 |
 | 141          | 5             | Hai-Alarm auf Mallorca | 2004 | 9. September 2022 |
 | 142          | 6             | Die Barbaren | 1987 | 16. September 2022 |
@@ -194,9 +204,9 @@
 | 145          | 9             | Der scharlachrote Henker | 1965 | 7. Oktober 2022 |
 | 146          | 10            | Die Nordmänner | 1978 | 14. Oktober 2022 |
 | 147          | 11            | In der Gewalt der Riesenameisen | 1977 | 21. Oktober 2022 |
-| 148          | 12 ❌         | Gib Gas – Ich will Spaß | 1982 | 28. Oktober 2022 |
+| 148          | 12           | Gib Gas – Ich will Spaß | 1982 | 28. Oktober 2022 |
 
-## Staffel 11  
+## Staffel 11 (2023) 
 
 | Nr. | Folge | Film | Jahr | Ausstrahlung |
 |--------------|---------------|------|------------------|---------------------|
@@ -212,12 +222,12 @@
 | 158          | 10            | Giganten mit stählernen Fäusten | 1978 | 13. Oktober 2023 |
 | 159          | 11            | Beast You! | 1988 | 20. Oktober 2023 |
 | 160          | 12            | Yeti – Der Schneemensch kommt | 1977 | 27. Oktober 2023 |
-| 161          | 13            | Piranha Sharks | 2017 | 1. Dezember 2023 |
+| 161          | 13            | [Piranha Sharks](episodes/161.md) | 2017 | 1. Dezember 2023 |
 | 162          | 14            | Iron Thunder | 1990 | 8. Dezember 2023 |
 | 163          | 15            | Space Truckers | 1996 | 15. Dezember 2023 |
 | 164          | 16            | Hard Ticket to Hawaii | 1987 | 22. Dezember 2023 |
 
-## Staffel 12  
+## Staffel 12 (2024)  
 
 | Nr. | Folge | Film | Jahr | Ausstrahlung |
 |--------------|---------------|------|------------------|---------------------|
