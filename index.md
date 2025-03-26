@@ -1,10 +1,10 @@
-{% for season in site.seasons %}
-  <h2>{{ season.name }} - {{ season.year }}</h2>
+{% for episode in site.season01 %}
+  <h2>{{ episode.name }} - {{ episode.episode }}</h2>
   <p>{{ season.content | markdownify }}</p>
 {% endfor %}
 
 {% for season in site.seasons %}
-  ## {{ season.name }}  ({{ season.year }})
+  <h2>{{ season.name }} - {{ season.year }}</h2>
   <p>{{ season.content | markdownify }}</p>
 {% endfor %}
 
