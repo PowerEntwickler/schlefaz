@@ -1,19 +1,19 @@
-## Staffel 1  
+## Staffel 1  (2013)
 
-| Nr. | Folge | Film | Jahr | Ausstrahlung |
-|----|----|------|------------------|---------------------|
-| 1            | 1   | Supershark | 2011 | 26. Juli 2013 |
-| 2            | 2   | Knochenbrecher im Wilden Westen | 1973 | 2. August 2013 |
-| 3            | 3   | The Throne of Fire | 1983 | 9. August 2013 |
-| 4            | 4   | Piranhas II – Die Rache der Killerfische | 1979 | 16. August 2013 |
-| 5            | 5   | Cherry 2000 | 1987 | 23. August 2013 |
-| 6            | 6   | Hasse deinen Nächsten | 1968 | 30. August 2013 |
-| 7            | 7   | Battlefield Earth – Kampf um die Erde | 2000 | 6. September 2013 |
-| 8            | 8   | Perry Rhodan – SOS aus dem Weltall | 1967 | 13. September 2013 |
-| 9            | 9   | Orcs – Sie kommen, um uns alle zu töten | 2011 | 27. September 2013 |
-| 10           | 10  | Frogs | 1972 | 4. Oktober 2013 |
-| 11           | 11  | Sumuru – Die Tochter des Satans | 1967 | 11. Oktober 2013 |
-| 12           | 12  | Mega Piranha | 2010 | 18. Oktober 2013 |
+| Nr. | Folge | Film | Alt | Jahr | <div title="IMDB">⭐</div> | <img style="vertical-align:middle" src="images/tmdb.png" title="The Movie Database"/>| <img style="vertical-align:middle" src="images/r.png" title="Rotten Tomatoes"/> | <img style="vertical-align:middle" src="images/fd.png" title="filmdienst.de" /> | <img style="vertical-align:middle" src="images/c.png" title="cinema.de"/> |
+|-----|-------|------|-----|------|---------|---------|---------|----------|----------|
+| 1  | 1     | Supershark | Super Shark | 2011 |  [2.5](https://www.imdb.com/title/tt1698008/) | [ 42%](https://www.themoviedb.org/movie/83880-super-shark) | [ 26%](https://www.rottentomatoes.com/m/super_shark) | [🔗](https://www.filmdienst.de/film/details/540186/supershark) |  [⭐](https://www.cinema.de/film/supershark,4989652.html) |
+| 2  | 2     | Knochenbrecher im Wilden Westen | Der Mann mit der Kugelpeitsche | 1973 | [5.7](https://www.imdb.com/de/title/tt0068954/) | [50%](https://www.themoviedb.org/movie/30489-il-mio-nome-e-shanghai-joe) | [ N/A](https://www.rottentomatoes.com/m/the_fighting_fists_of_shanghai_joe) | [🔗](https://www.filmdienst.de/film/details/30216/der-mann-mit-der-kugelpeitsche) | N/A |
+| 3  | 3     | Thron des Feuers | The Throne of Fire | 1983 | [3.5](https://www.imdb.com/de/title/tt0090166/) | [43%](https://www.themoviedb.org/movie/157394) | [ 43%](https://www.rottentomatoes.com/m/throne_of_fire) |  [🔗](https://www.filmdienst.de/film/details/4007/) | [⭐](https://www.cinema.de/film/thron-des-feuers,1295346.html) |
+| 4  | 4     | Piranhas II – Die Rache der Killerfische | KILLER FISH | 1979 | [4.2](https://www.imdb.com/de/title/tt0077800/) | [46%](https://www.themoviedb.org/movie/36275) | [ 11%](https://www.rottentomatoes.com/m/killer_fish) | [🔗](https://www.filmdienst.de/film/details/31759) | [⭐](https://www.cinema.de/film/die-rache-der-killerfische,1303608.html) |
+| 5  | 5     | Cherry 2000 | | 1987 | [5.6](https://www.imdb.com/title/tt0092746/) | [60%](https://www.themoviedb.org/movie/15785) | [ 41%](https://www.rottentomatoes.com/m/cherry_2000) | [🔗](https://www.filmdienst.de/film/details/1263) | [⭐⭐⭐](https://www.cinema.de/film/cherry-2000,1323022.html) |
+| 6  | 6     | Hasse deinen Nächsten | Love Your Neighbor! | 1968 | [5.2](https://www.imdb.com/de/title/tt0189844/) | [48%](https://www.themoviedb.org/movie/108789) | [ N/A](https://www.rottentomatoes.com/m/liebe_deine_nachste_1999) | [🔗](https://www.filmdienst.de/film/details/524013/) | [⭐⭐⭐](https://www.cinema.de/film/hasse-deinen-naechsten,1315383.html) |
+| 7  | 7     | Battlefield Earth – Kampf um die Erde | | 2000 | [2.5](https://www.imdb.com/title/tt0185183/) | [33%](https://www.themoviedb.org/movie/5491) | [ 13%](https://www.rottentomatoes.com/m/battlefield_earth) | [🔗](https://www.filmdienst.de/film/details/513131/) | [⭐](https://www.cinema.de/film/battlefield-earth,1315437.html) |
+| 8  | 8     | Perry Rhodan – SOS aus dem Weltall | Mission Stardust | 1967 | [4.2](https://www.imdb.com/title/tt0063859/) | [46%](https://www.themoviedb.org/movie/64214) | [ 33%](https://www.rottentomatoes.com/m/4_3_2_1_morte) | [🔗](https://www.filmdienst.de/film/details/21953/) | [⭐⭐⭐](https://www.cinema.de/film/perry-rhodan-sos-aus-dem-weltall,1308169.html) |
+| 9  | 9     | Orcs – Sie kommen, um uns alle zu töten | Orcs! | 2011 | [3.5](https://www.imdb.com/title/tt1524134/) | [38%](https://www.themoviedb.org/movie/66470) | [ 12%](https://www.rottentomatoes.com/m/orcs) | [🔗](https://www.filmdienst.de/film/details/538120) | [⭐⭐⭐](https://www.cinema.de/film/orcs,4632416.html) |
+| 10 | 10    | Frösche | Frogs | 1972 | [4.4](https://www.imdb.com/title/tt0068615/) | [47%](https://www.themoviedb.org/movie/18274) | [ 25%](https://www.rottentomatoes.com/m/frogs) | [🔗](https://www.filmdienst.de/film/details/25558) | [⭐⭐⭐⭐⭐](https://www.cinema.de/film/frogs-killer-aus-dem-sumpf,1334823.html) |
+| 11 | 11    | Sumuru – Die Tochter des Satans |  The Million Eyes of Sumuru | 1967 | [3.7](https://www.imdb.com/title/tt0061976/) | [42%](https://www.themoviedb.org/movie/37960) | [ 12%](https://www.rottentomatoes.com/m/the_million_eyes_of_su_muru) | [🔗](https://www.filmdienst.de/film/details/16133) | [⭐⭐⭐](https://www.cinema.de/film/sumuru-die-tochter-des-satans,1305638.html) |
+| 12 | 12    | Mega Piranha | | 2010 | [2.4](https://www.imdb.com/title/tt1587807/) | [32%](https://www.themoviedb.org/movie/39522) | [16%](https://www.rottentomatoes.com/m/mega_piranha) | [🔗](https://www.filmdienst.de/film/details/536007) | [⭐](https://www.cinema.de/film/mega-piranha,4437442.html) |
 
 ## Staffel 2  
 
@@ -208,7 +208,7 @@
 | 154          | 6             | Mutant – Das Grauen im All | 1982 | 15. September 2023 |
 | 155          | 7             | Wizards of the Lost Kingdom | 1985 | 22. September 2023 |
 | 156          | 8             | [Im Reich der Amazonen](episodes/156.md) | 1986 | 29. September 2023 |
-| 157          | 9             | Tod im Spielzeugland | 1993 | 6. Oktober 2023 |
+| 157          | 9             | [Tod im Spielzeugland](episodes/157.md) | 1993 | 6. Oktober 2023 |
 | 158          | 10            | Giganten mit stählernen Fäusten | 1978 | 13. Oktober 2023 |
 | 159          | 11            | Beast You! | 1988 | 20. Oktober 2023 |
 | 160          | 12            | Yeti – Der Schneemensch kommt | 1977 | 27. Oktober 2023 |
