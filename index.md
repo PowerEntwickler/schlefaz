@@ -11,6 +11,7 @@
 - <a href="#Staffel 10">Staffel 10</a>
 - <a href="#Staffel 11">Staffel 11</a>
 - <a href="#Staffel 12">Staffel 12</a>
+- <a href="#Staffel 13">Staffel 13</a>
 
 {% for season in site.seasons %}
   <h2 id="{{ season.name }}">{{ season.name }} - {{ season.year }}</h2>
