@@ -3,39 +3,6 @@
   <p>{{ season.content | markdownify }}</p>
 {% endfor %}
 
-## Staffel 1  (2013)
-
-| Nr. | Folge | Film | Alt | Jahr | <img style="vertical-align:middle" src="images/i.png" title="IMDB"/> | <img style="vertical-align:middle" src="images/tmdb.png" title="The Movie Database"/> | <img style="vertical-align:middle" src="images/r.png" title="Rotten Tomatoes"/> | <img style="vertical-align:middle" src="images/fd.png" title="filmdienst.de" /> | <img style="vertical-align:middle" src="images/c.png" title="cinema.de"/> |
-|-----|-------|------|-----|------|---------|---------|---------|----------|----------|
-| 1  | 1     | Supershark | Super Shark | 2011 |  [2.5](https://www.imdb.com/title/tt1698008/) | [ 42%](https://www.themoviedb.org/movie/83880-super-shark) | [ 26%](https://www.rottentomatoes.com/m/super_shark) | [🔗](https://www.filmdienst.de/film/details/540186/supershark) |  [⭐](https://www.cinema.de/film/supershark,4989652.html) |
-| 2  | 2     | Knochenbrecher im Wilden Westen | Der Mann mit der Kugelpeitsche | 1973 | [5.7](https://www.imdb.com/de/title/tt0068954/) | [50%](https://www.themoviedb.org/movie/30489-il-mio-nome-e-shanghai-joe) | [ N/A](https://www.rottentomatoes.com/m/the_fighting_fists_of_shanghai_joe) | [🔗](https://www.filmdienst.de/film/details/30216/der-mann-mit-der-kugelpeitsche) | N/A |
-| 3  | 3     | Thron des Feuers | The Throne of Fire | 1983 | [3.5](https://www.imdb.com/de/title/tt0090166/) | [43%](https://www.themoviedb.org/movie/157394) | [ 43%](https://www.rottentomatoes.com/m/throne_of_fire) |  [🔗](https://www.filmdienst.de/film/details/4007/) | [⭐](https://www.cinema.de/film/thron-des-feuers,1295346.html) |
-| 4  | 4     | Piranhas II – Die Rache der Killerfische | KILLER FISH | 1979 | [4.2](https://www.imdb.com/de/title/tt0077800/) | [46%](https://www.themoviedb.org/movie/36275) | [ 11%](https://www.rottentomatoes.com/m/killer_fish) | [🔗](https://www.filmdienst.de/film/details/31759) | [⭐](https://www.cinema.de/film/die-rache-der-killerfische,1303608.html) |
-| 5  | 5     | Cherry 2000 | | 1987 | [5.6](https://www.imdb.com/title/tt0092746/) | [60%](https://www.themoviedb.org/movie/15785) | [ 41%](https://www.rottentomatoes.com/m/cherry_2000) | [🔗](https://www.filmdienst.de/film/details/1263) | [⭐⭐⭐](https://www.cinema.de/film/cherry-2000,1323022.html) |
-| 6  | 6     | Hasse deinen Nächsten | Love Your Neighbor! | 1968 | [5.2](https://www.imdb.com/de/title/tt0189844/) | [48%](https://www.themoviedb.org/movie/108789) | [ N/A](https://www.rottentomatoes.com/m/liebe_deine_nachste_1999) | [🔗](https://www.filmdienst.de/film/details/524013/) | [⭐⭐⭐](https://www.cinema.de/film/hasse-deinen-naechsten,1315383.html) |
-| 7  | 7     | Battlefield Earth – Kampf um die Erde | | 2000 | [2.5](https://www.imdb.com/title/tt0185183/) | [33%](https://www.themoviedb.org/movie/5491) | [ 13%](https://www.rottentomatoes.com/m/battlefield_earth) | [🔗](https://www.filmdienst.de/film/details/513131/) | [⭐](https://www.cinema.de/film/battlefield-earth,1315437.html) |
-| 8  | 8     | Perry Rhodan – SOS aus dem Weltall | Mission Stardust | 1967 | [4.2](https://www.imdb.com/title/tt0063859/) | [46%](https://www.themoviedb.org/movie/64214) | [ 33%](https://www.rottentomatoes.com/m/4_3_2_1_morte) | [🔗](https://www.filmdienst.de/film/details/21953/) | [⭐⭐⭐](https://www.cinema.de/film/perry-rhodan-sos-aus-dem-weltall,1308169.html) |
-| 9  | 9     | Orcs – Sie kommen, um uns alle zu töten | Orcs! | 2011 | [3.5](https://www.imdb.com/title/tt1524134/) | [38%](https://www.themoviedb.org/movie/66470) | [ 12%](https://www.rottentomatoes.com/m/orcs) | [🔗](https://www.filmdienst.de/film/details/538120) | [⭐⭐⭐](https://www.cinema.de/film/orcs,4632416.html) |
-| 10 | 10    | Frösche | Frogs | 1972 | [4.4](https://www.imdb.com/title/tt0068615/) | [47%](https://www.themoviedb.org/movie/18274) | [ 25%](https://www.rottentomatoes.com/m/frogs) | [🔗](https://www.filmdienst.de/film/details/25558) | [⭐⭐⭐⭐⭐](https://www.cinema.de/film/frogs-killer-aus-dem-sumpf,1334823.html) |
-| 11 | 11    | Sumuru – Die Tochter des Satans |  The Million Eyes of Sumuru | 1967 | [3.7](https://www.imdb.com/title/tt0061976/) | [42%](https://www.themoviedb.org/movie/37960) | [ 12%](https://www.rottentomatoes.com/m/the_million_eyes_of_su_muru) | [🔗](https://www.filmdienst.de/film/details/16133) | [⭐⭐⭐](https://www.cinema.de/film/sumuru-die-tochter-des-satans,1305638.html) |
-| 12 | 12    | Mega Piranha | | 2010 | [2.4](https://www.imdb.com/title/tt1587807/) | [32%](https://www.themoviedb.org/movie/39522) | [16%](https://www.rottentomatoes.com/m/mega_piranha) | [🔗](https://www.filmdienst.de/film/details/536007) | [⭐](https://www.cinema.de/film/mega-piranha,4437442.html) |
-
-## Staffel 2  
-
-| Nr. | Folge | Film | Jahr | Ausstrahlung |
-|--------------|---------------|------|------------------|---------------------|
-| 13           | 1             | Sharknado – Genug gesagt! | 2013 | 10. Januar 2014 |
-| 14           | 2             | Blacula | 1972 | 7. Februar 2014 |
-| 15           | 3             | Titanic II | 2010 | 7. März 2014 |
-| 16           | 4             | Die sieben Männer der Sumuru | 1969 | 4. April 2014 |
-| 17           | 5             | Monster des Grauens greifen an | 1970 | 2. Mai 2014 |
-| 18           | 6             | Die schwarzen Zombies von Sugar Hill | 1974 | 6. Juni 2014 |
-| 19           | 7             | Zwiebel-Jack räumt auf | 1975 | 11. Juli 2014 |
-| 20           | 8             | Camel Spiders – Angriff der Monsterspinnen | 2011 | 1. August 2014 |
-| 21           | 9             | Sharknado 2 | 2014 | 21. November 2014 |
-| 22           | 10            | Flotte Teens und heiße Jeans | 1975 | 28. November 2014 |
-| 23           | 11            | Airplane vs. Volcano | 2014 | 5. Dezember 2014 |
-| 24           | 12            | Dracula jagt Frankenstein | 1970 | 12. Dezember 2014 |
 
 ## Staffel 3  
 
