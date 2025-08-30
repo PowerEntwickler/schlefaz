@@ -1,4 +1,4 @@
-# Staffeln:
+## Inhalt:
 - <a href="#Staffel 1">Staffel 1</a>
 - <a href="#Staffel 2">Staffel 2</a>
 - <a href="#Staffel 3">Staffel 3</a>
@@ -12,8 +12,9 @@
 - <a href="#Staffel 11">Staffel 11</a>
 - <a href="#Staffel 12">Staffel 12</a>
 - <a href="#Staffel 13">Staffel 13</a>  
-  
+
+## Staffeln:  
 {% for season in site.seasons %}
-  <h2 id="{{ season.name }}">{{ season.name }} - {{ season.year }}</h2>
+  <h3 id="{{ season.name }}">{{ season.name }} - {{ season.year }}</h2>
   <p>{{ season.content | markdownify }}</p>
 {% endfor %}
