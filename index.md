@@ -15,6 +15,6 @@
 
 ## Staffeln:  
 {% for season in site.seasons %}
-  <h3 id="{{ season.name }}">{{ season.name }} - {{ season.year }}</h2>
+  <h3 id="{{ season.name }}">{{ season.name }} - {{ season.year }}</h3>
   <p>{{ season.content | markdownify }}</p>
 {% endfor %}
