@@ -2,3 +2,4 @@ theme: jekyll-theme-hacker
 collections:
   - seasons
   - season01
+  - season02
